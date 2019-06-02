@@ -4,8 +4,8 @@
 
 | Jeu | Date | Dépôts |
 | - | - | - |
-| T7Laser | 18/03/2017 | [tgd-multigame][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-projet_2018][t7-laser-2] |
 | Labyrinthe | 18/03/2017 | [tgd-multigame][labyrinthe-0]<br/>[tgd-final][labyrinthe-1] |
+| T7Laser | 18/03/2017 | [tgd-multigame][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-projet_2018][t7-laser-2] |
 | Cathedral Bloxxx | 18/03/2017 | [tgd-multigame][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1] |
 | Space Shooter | 19/10/2017 | [tgd-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] |
 | Snake | 21/10/2017 | [T7GD2][snake-0]<br/>[T7GD2][snake-1]<br/>[tgd-final][snake-2]<br/>[tgd-projet_2018][snake-3] |
@@ -37,11 +37,11 @@
 | Phoenix Project | 17/05/2019 | [tgd-cn-roguezone][phoenix-project-0] |
 | Color Truc | 17/05/2019 | [tgd-cn-roguezone][color-truc-0] |
 
+[labyrinthe-0]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game1
+[labyrinthe-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Labyrinthe
 [t7-laser-0]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game2/world
 [t7-laser-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/T7Laser
 [t7-laser-2]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/t7Laser
-[labyrinthe-0]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game1
-[labyrinthe-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Labyrinthe
 [cathedral-bloxxx-0]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game3/world
 [cathedral-bloxxx-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/CathedralBloxxx
 [space-shooter-0]: https://github.com/TeleGD/tgd-shooter/tree/master/src
