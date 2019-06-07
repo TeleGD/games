@@ -1,0 +1,12 @@
+
+Nom : Grave E.T.
+Description : L
+Logo : https://github.com/TeleGD/cn-haxVplat/blob/master/res/images/verticalPlateformer/monstre.png
+Date : 26 Octobre 2018
+Crédits : Amos Georges, Tristan Le Godais, David Forlen
+Base : multi
+Contrôles : clavier (+ potentiellement manettes, à tester)
+Joueurs : 1
+BD : Non
+Réseau : Non
+Fonctionnement : MILLE !
