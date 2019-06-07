@@ -9,3 +9,5 @@ Joueurs : 2 ?
 BD : Non
 Réseau : Non
 Fonctionnement : Seems ok
+
+NOTE : Plein de messages de debuggage dans la console !
