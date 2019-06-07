@@ -1,0 +1,11 @@
+Nom : Caramel au Beurre Salé
+Description : Insérez ici une description écrite par quelqu'un comprenant vraiment le jeu
+Logo : NONE
+Date : 10 Mars 2019
+Crédits : Amos George, Tristant Le Godais, David Forlen, Xavier Indice, Frédéric Pontet, Frédéric Venier
+Base : multi
+Contrôles : clavier (+ potentiellement manettes, à tester)
+Joueurs : 2 ?
+BD : Non
+Réseau : Non
+Fonctionnement : Seems ok
