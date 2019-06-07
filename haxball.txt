@@ -3,3 +3,9 @@ Description : Deux joueurs s'affrontent sur un terrain de football. Des bonus pe
 Logo : NONE
 Date : 26 Octobre 2018
 Crédits : Nathan Barloy, Alexis Dieu, Xavier Indice, Océane Chazé, Maxime Botreau-Roussel-Bonneterre, Frédéric Venier, Frantz Darbon
+Base : multi
+Contrôles : clavier (+ potentiellement manettes, à tester)
+Joueurs : 2
+BD : Non
+Réseau : Non
+Fonctionnement : 1000/1000
