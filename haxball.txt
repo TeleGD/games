@@ -1,0 +1,8 @@
+Nom : Hax Ball (à changer, Hax Ball existe déjà)
+Description : Deux joueurs s'affrontent sur un terrain de football. Des bonus peuvent apparaître pendant la partie... Le premier à atteindre 10 buts gagne !
+Logo : NONE
+Date : 26 Octobre 2018
+Crédits : Amos Georges, Nathan Barloy, Alexis Dieu, Xavier Indice, Quentin Charrier
+
+...
+C PA FINI
