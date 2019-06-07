@@ -1,6 +1,6 @@
 
 Nom : Grave E.T.
-Description : L
+Description : Sachez contrôler la gravité pour échapper aux monstres souterrains et éviter les obstacles !
 Logo : https://github.com/TeleGD/cn-haxVplat/blob/master/res/images/verticalPlateformer/monstre.png
 Date : 26 Octobre 2018
 Crédits : Amos Georges, Tristan Le Godais, David Forlen
