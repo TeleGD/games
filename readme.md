@@ -4,7 +4,7 @@
 
 | Jeu | Date | Dépôts |
 | - | - | - |
-| Another Brick in the Cloud | 06/11/2015 | [tgd-cn-v][another-brick-in-the-cloud-0] |
+| Another Brick in the Cloud | 06/11/2015 | [tgd-cn-v][another-brick-in-the-cloud-0] |
 | Space Cops | 07/11/2015 | [tgd-cn-s][space-cops-0] |
 | Casse-briques | 30/04/2016 | [tgd-cn-casse-briques][casse-briques-0] |
 | Jean Robot | 06/10/2016 | [TGD_Projet1][jean-robot-0] |
@@ -42,7 +42,7 @@
 | Phoenix Project | 17/05/2019 | [tgd-cn-roguezone][phoenix-project-0] |
 | Color Truc | 17/05/2019 | [tgd-cn-roguezone][color-truc-0] |
 
-[another-brick-in-the-cloud-0]: https://github.com/TeleGD/tdc-cn-v/tree/master/src/fr
+[another-brick-in-the-cloud-0]: https://github.com/TeleGD/tgd-cn-v/tree/master/src/fr
 [space-cops-0]: https://github.com/TeleGD/tgd-cn-s/tree/master/src/fr
 [casse-briques-0]: https://github.com/TeleGD/tgd-cn-casse-briques/tree/master/src/fr
 [jean-robot-0]: https://github.com/TeleGD/TGD_Projet1/tree/master/src/fr
