@@ -1,4 +1,4 @@
-# Jeux de [TeleGame Design](https://telegd.github.io)
+# Jeux de [*TeleGame Design*](https://telegd.github.io/)
 
 ## Jeux *Java* / *Slick2D*
 
@@ -20,8 +20,8 @@
 | Worms 3000 | 25/11/2017 | [tgd-cn_wormsurvie][worms3000-0]<br/>[tgd-final][worms3000-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
 | Age of War | 26/01/2018 | [tgd-cn_tetrisbdf][age-of-war-0]<br/>[tgd-final][age-of-war-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
 | La Sainte Ventouse | 26/01/2018 | [tgd-cn_tetrisbdf][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
-| Plague | 27/01/2018 | [tgd-plague][plague-0] | Aucune | Clavier |
-| Smash | 27/01/2018 | [tgd-smash][smash-0] | Aucune | Clavier |
+| Plague | 27/01/2018 | [tgd-plague][plague-0] | [base][base] | Clavier et manette |
+| Smash | 27/01/2018 | [tgd-smash][smash-0] | [base][base] | Clavier et manette |
 | Pacman Battle | 15/02/2018 | [tgd-projet_2018][pacman-battle-0] | [multi][multi] | Clavier et manette |
 | Aztecs Pyramids | 22/02/2018 | [tgd-projet_2018][aztecs-pyramids-0] | [multi][multi] | Clavier et manette |
 | Pong | 23/03/2018 | [tgd-projet_2018][pong-0] | [multi][multi] | Clavier et manette |
@@ -36,7 +36,7 @@
 | TeleKingdom | 06/09/2018 | [tgd-telekingdom][telekingdom-0] | [base][base] | Clavier |
 | Solar System | 11/10/2018 | [tgd-solar-system][solar-system-0] | [base][base] | Clavier et souris |
 | Grave-ET | 20/10/2018 | [tgd-grave-et][grave-et-0] | [base][base] | Clavier |
-| HaxBall | 20/10/2018 | [tgd-hax-ball][hax-ball-0] | [base][base] | Clavier |
+| Hax Ball | 20/10/2018 | [tgd-hax-ball][hax-ball-0] | [base][base] | Clavier |
 | Caramel au Beurre Salé | 30/11/2018 | [tgd-caramel-au-beurre-sale][caramel-au-beurre-sale-0] | [base][base] | Clavier et souris |
 | Le bon gros son sa mère | 09/03/2019 | [tgd-le-bon-gros-son-sa-mere][le-bon-gros-son-sa-mere-0] | [base][base] | Clavier et souris |
 | Phoenix Project | 17/05/2019 | [tgd-phoenix-project][phoenix-project-0] | [multi][multi] | Clavier et manette |
@@ -100,9 +100,9 @@
 [grave-et-0]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/graveEt
 [hax-ball-0]: https://github.com/TeleGD/tgd-hax-ball/tree/master/src/haxBall
 [caramel-au-beurre-sale-0]: https://github.com/TeleGD/tgd-caramel-au-beurre-sale/tree/master/src/waterSymbol
-[le-bon-gros-son-sa-mere-0]: https://github.com/TeleGD/tgd-le-bon-gros-son-sa-mere/tree/master/src/rythm
-[phoenix-project-0]: https://github.com/TeleGD/tgd-phoenix-project/tree/master/src/games/phoenix
-[color-truc-0]: https://github.com/TeleGD/tgd-color-truc/tree/master/src/games/zone
+[le-bon-gros-son-sa-mere-0]: https://github.com/TeleGD/tgd-le-bon-gros-son-sa-mere/tree/master/src/leBonGrosSonSaMere
+[phoenix-project-0]: https://github.com/TeleGD/tgd-phoenix-project/tree/master/src/games/phoenixProject
+[color-truc-0]: https://github.com/TeleGD/tgd-color-truc/tree/master/src/games/colorTruc
 
 [base]: https://github.com/TeleGD/base
 [multi]: https://github.com/TeleGD/multi
