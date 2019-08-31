@@ -5,7 +5,7 @@
 | Jeu | Date | Dépôts | Base | Contrôles |
 | - | - | - | - | - |
 | Another Brick in the Cloud | 06/11/2015 | [tgd-another-brick-in-the-cloud][another-brick-in-the-cloud-0] | Aucune | Clavier |
-| Space Cops | 07/11/2015 | [tgd-space-cops][space-cops-0] | Aucune | Clavier |
+| Space Cops | 07/11/2015 | [tgd-space-cops][space-cops-0] | [base][base] | Clavier |
 | Casse-briques | 30/04/2016 | [tgd-casse-briques][casse-briques-0] | Aucune | Clavier et souris |
 | Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot-0] | Aucune | Clavier et souris |
 | Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom-0] | Aucune | Clavier |
