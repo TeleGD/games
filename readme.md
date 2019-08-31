@@ -50,7 +50,7 @@
 
 
 [another-brick-in-the-cloud-0]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud/tree/master/src/fr
-[space-cops-0]: https://github.com/TeleGD/tgd-space-cops/tree/master/src/fr
+[space-cops-0]: https://github.com/TeleGD/tgd-space-cops/tree/master/src/spaceCops
 [casse-briques-0]: https://github.com/TeleGD/tgd-casse-briques/tree/master/src/fr
 [jean-robot-0]: https://github.com/TeleGD/tgd-jean-robot/tree/master/src/fr
 [guard-slalom-0]: https://github.com/TeleGD/tgd-guard-slalom/tree/master/src/fr
