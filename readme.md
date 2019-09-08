@@ -92,7 +92,7 @@
 [bomberman-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/bomberman
 [maze-0]: https://github.com/TeleGD/tgd-maze/tree/master/src/games/maze
 [maze-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/maze
-[path-painting-0]: https://github.com/TeleGD/tgd-path-paiting/tree/master/src/games/pathPainting
+[path-painting-0]: https://github.com/TeleGD/tgd-path-painting/tree/master/src/games/pathPainting
 [path-painting-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/pathPainting
 [precise-lock-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/preciseLock
 [telekingdom-0]: https://github.com/TeleGD/tgd-telekingdom/tree/master/src/telekingdom
