@@ -13,7 +13,7 @@
 | Labyrinthe | 18/03/2017 | [tgd-multigame][labyrinthe-0]<br/>[tgd-final][labyrinthe-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
 | T7 Laser | 18/03/2017 | [tgd-multigame][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-projet_2018][t7-laser-2] | Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier<br/>Clavier et manette |
 | Cathedral Bloxxx | 18/03/2017 | [tgd-multigame][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
-| Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
+| Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] | [base][base]<br/>Aucune | Clavier<br/>Clavier |
 | Snake | 21/10/2017 | [T7GD2][snake-0]<br/>[T7GD2][snake-1]<br/>[tgd-final][snake-2]<br/>[tgd-projet_2018][snake-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
 | Tower Defense | 21/10/2017 | [T7GD2][tower-defense-0]<br/>[tgd-final][tower-defense-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin-0]<br/>[tgd-final][rogue-like-a-virgin-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
