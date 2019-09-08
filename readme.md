@@ -47,6 +47,7 @@
 
 | Jeu | Date | Dépôts |
 | - | - | - |
+| Rocket-LG | 12/05/2019 | [tgd-rocket-lg][rocket-lg-0] |
 | Unitest | 07/03/2019 | [tgd-unitest][unitest-0] |
 
 
@@ -110,4 +111,5 @@
 [multi]: https://github.com/TeleGD/multi
 [uni]: https://github.com/TeleGD/uni
 
+[rocket-lg-0]: https://github.com/TeleGD/tgd-rocket-lg
 [unitest-0]: https://github.com/TeleGD/tgd-unitest
