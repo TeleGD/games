@@ -29,9 +29,9 @@
 | Reflex | 29/03/2018 | [tgd-projet_2018][reflex-0] | [multi][multi] | Clavier et manette |
 | Clicker | 12/04/2018 | [tgd-projet_2018][clicker-0] | [multi][multi] | Clavier et manette |
 | Code Fall | 13/04/2018 | [tgd-projet_2018][code-fall-0] | [multi][multi] | Clavier et manette |
-| Bomberman | 13/04/2018 | [tgd-cn_bombermanlabypaint][bomberman-0]<br/>[tgd-projet_2018][bomberman-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
-| Maze | 13/04/2018 | [tgd-cn_bombermanlabypaint][maze-0]<br/>[tgd-projet_2018][maze-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
-| Path Painting | 13/04/2018 | [tgd-cn_bombermanlabypaint][path-painting-0]<br/>[tgd-projet_2018][path-painting-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Bomberman | 13/04/2018 | [tgd-bomberman][bomberman-0]<br/>[tgd-projet_2018][bomberman-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Maze | 13/04/2018 | [tgd-maze][maze-0]<br/>[tgd-projet_2018][maze-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Path Painting | 13/04/2018 | [tgd-path-painting][path-painting-0]<br/>[tgd-projet_2018][path-painting-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
 | Precise Lock | 24/04/2018 | [tgd-projet_2018][precise-lock-0] | [multi][multi] | Clavier et manette |
 | TeleKingdom | 06/09/2018 | [tgd-telekingdom][telekingdom-0] | [base][base] | Clavier |
 | Solar System | 11/10/2018 | [tgd-solar-system][solar-system-0] | [base][base] | Clavier et souris |
@@ -88,11 +88,11 @@
 [reflex-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/reflex
 [clicker-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/clicker
 [code-fall-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/codeFall
-[bomberman-0]: https://github.com/TeleGD/tgd-cn_bombermanlabypaint/tree/master/src/games/bomberman
+[bomberman-0]: https://github.com/TeleGD/tgd-bomberman/tree/master/src/games/bomberman
 [bomberman-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/bomberman
-[maze-0]: https://github.com/TeleGD/tgd-cn_bombermanlabypaint/tree/master/src/games/labyrinthe
+[maze-0]: https://github.com/TeleGD/tgd-maze/tree/master/src/games/maze
 [maze-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/maze
-[path-painting-0]: https://github.com/TeleGD/tgd-cn_bombermanlabypaint/tree/master/src/games/paint
+[path-painting-0]: https://github.com/TeleGD/tgd-path-paiting/tree/master/src/games/pathPainting
 [path-painting-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/pathPainting
 [precise-lock-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/preciseLock
 [telekingdom-0]: https://github.com/TeleGD/tgd-telekingdom/tree/master/src/telekingdom
