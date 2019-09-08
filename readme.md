@@ -7,6 +7,7 @@
 | Another Brick in the Cloud | 06/11/2015 | [tgd-another-brick-in-the-cloud][another-brick-in-the-cloud-0] | Aucune | Clavier |
 | Space Cops | 07/11/2015 | [tgd-space-cops][space-cops-0] | [base][base] | Clavier |
 | Casse-briques | 30/04/2016 | [tgd-casse-briques][casse-briques-0] | Aucune | Clavier et souris |
+| Super Fighter | 11/05/2016 | [tgd-super-fighter][super-fighter-0] | Aucune | Clavier |
 | Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot-0] | Aucune | Clavier et souris |
 | Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom-0] | Aucune | Clavier |
 | Labyrinthe | 18/03/2017 | [tgd-multigame][labyrinthe-0]<br/>[tgd-final][labyrinthe-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
@@ -52,6 +53,7 @@
 [another-brick-in-the-cloud-0]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud/tree/master/src/fr
 [space-cops-0]: https://github.com/TeleGD/tgd-space-cops/tree/master/src/spaceCops
 [casse-briques-0]: https://github.com/TeleGD/tgd-casse-briques/tree/master/src/fr
+[super-fighter-0]: https://github.com/TeleGD/tgd-super-fighter/tree/master/src/fr
 [jean-robot-0]: https://github.com/TeleGD/tgd-jean-robot/tree/master/src/fr
 [guard-slalom-0]: https://github.com/TeleGD/tgd-guard-slalom/tree/master/src/fr
 [labyrinthe-0]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game1
