@@ -110,7 +110,7 @@
 [grave-et-0]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/graveEt
 [hax-ball-0]: https://github.com/TeleGD/tgd-hax-ball/tree/master/src/haxBall
 [caramel-au-beurre-sale-0]: https://github.com/TeleGD/tgd-caramel-au-beurre-sale/tree/master/src/waterSymbol
-[the-english-s-stone-0]: https://github.com/TeleGD/tgd-the-english-s-stone/tree/master/src/english
+[the-english-s-stone-0]: https://github.com/TeleGD/tgd-the-english-s-stone/tree/master/src/theEnglishSStone
 [le-bon-gros-son-sa-mere-0]: https://github.com/TeleGD/tgd-le-bon-gros-son-sa-mere/tree/master/src/leBonGrosSonSaMere
 [phoenix-project-0]: https://github.com/TeleGD/tgd-phoenix-project/tree/master/src/games/phoenixProject
 [color-truc-0]: https://github.com/TeleGD/tgd-color-truc/tree/master/src/games/colorTruc
