@@ -39,6 +39,7 @@
 | Grave-ET | 20/10/2018 | [tgd-grave-et][grave-et-0] | [base][base] | Clavier |
 | Hax Ball | 20/10/2018 | [tgd-hax-ball][hax-ball-0] | [base][base] | Clavier |
 | Caramel au Beurre Salé | 30/11/2018 | [tgd-caramel-au-beurre-sale][caramel-au-beurre-sale-0] | [base][base] | Clavier et souris |
+| The English's stone | 19/02/2019 | [tgd-the-english-s-stone][the-english-s-stone-0] | [base][base] | Clavier |
 | Le bon gros son sa mère | 09/03/2019 | [tgd-le-bon-gros-son-sa-mere][le-bon-gros-son-sa-mere-0] | [base][base] | Clavier et souris |
 | Phoenix Project | 17/05/2019 | [tgd-phoenix-project][phoenix-project-0] | [multi][multi] | Clavier et manette |
 | Color Truc | 17/05/2019 | [tgd-color-truc][color-truc-0] | [multi][multi] | Clavier et manette |
@@ -109,6 +110,7 @@
 [grave-et-0]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/graveEt
 [hax-ball-0]: https://github.com/TeleGD/tgd-hax-ball/tree/master/src/haxBall
 [caramel-au-beurre-sale-0]: https://github.com/TeleGD/tgd-caramel-au-beurre-sale/tree/master/src/waterSymbol
+[the-english-s-stone-0]: https://github.com/TeleGD/tgd-the-english-s-stone/tree/master/src/english
 [le-bon-gros-son-sa-mere-0]: https://github.com/TeleGD/tgd-le-bon-gros-son-sa-mere/tree/master/src/leBonGrosSonSaMere
 [phoenix-project-0]: https://github.com/TeleGD/tgd-phoenix-project/tree/master/src/games/phoenixProject
 [color-truc-0]: https://github.com/TeleGD/tgd-color-truc/tree/master/src/games/colorTruc
