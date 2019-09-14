@@ -17,10 +17,10 @@
 | Snake | 21/10/2017 | [T7GD2][snake-0]<br/>[T7GD2][snake-1]<br/>[tgd-final][snake-2]<br/>[tgd-projet_2018][snake-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
 | Tower Defense | 21/10/2017 | [T7GD2][tower-defense-0]<br/>[tgd-final][tower-defense-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin-0]<br/>[tgd-final][rogue-like-a-virgin-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
-| Survival | 25/11/2017 | [tgd-cn_wormsurvie][survival-0]<br/>[tgd-final][survival-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
-| Worms 3000 | 25/11/2017 | [tgd-cn_wormsurvie][worms3000-0]<br/>[tgd-final][worms3000-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
-| Age of War | 26/01/2018 | [tgd-cn_tetrisbdf][age-of-war-0]<br/>[tgd-final][age-of-war-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
-| La Sainte Ventouse | 26/01/2018 | [tgd-cn_tetrisbdf][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
+| Survival | 25/11/2017 | [tgd-survival][survival-0]<br/>[tgd-final][survival-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
+| Worms 3000 | 25/11/2017 | [tgd-worms3000][worms3000-0]<br/>[tgd-final][worms3000-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
+| Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war-0]<br/>[tgd-final][age-of-war-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
+| La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Plague | 27/01/2018 | [tgd-plague][plague-0] | [base][base] | Clavier et manette |
 | Smash | 27/01/2018 | [tgd-smash][smash-0] | [base][base] | Clavier et manette |
 | Pacman Battle | 15/02/2018 | [tgd-projet_2018][pacman-battle-0] | [multi][multi] | Clavier et manette |
@@ -81,13 +81,13 @@
 [tower-defense-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/TowerDefense
 [rogue-like-a-virgin-0]: https://github.com/TeleGD/tgd-rogue-like-a-virgin/tree/master/src
 [rogue-like-a-virgin-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/RogueLikeAVirgin
-[survival-0]: https://github.com/TeleGD/tgd-cn_wormsurvie/tree/master/src/survival
+[survival-0]: https://github.com/TeleGD/tgd-survival/tree/master/src/survival
 [survival-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Survival
-[worms3000-0]: https://github.com/TeleGD/tgd-cn_wormsurvie/tree/master/src/worms
+[worms3000-0]: https://github.com/TeleGD/tgd-worms3000/tree/master/src/worms
 [worms3000-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Worms3000
-[age-of-war-0]: https://github.com/TeleGD/tgd-cn_tetrisbdf/tree/master/src/aow
+[age-of-war-0]: https://github.com/TeleGD/tgd-age-of-war/tree/master/src/aow
 [age-of-war-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/AgeOfWar
-[la-sainte-ventouse-0]: https://github.com/TeleGD/tgd-cn_tetrisbdf/tree/master/src/game2
+[la-sainte-ventouse-0]: https://github.com/TeleGD/tgd-la-sainte-ventouse/tree/master/src/game2
 [la-sainte-ventouse-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/LaSainteVentouse
 [plague-0]: https://github.com/TeleGD/tgd-plague/tree/master/src/plague
 [smash-0]: https://github.com/TeleGD/tgd-smash/tree/master/src/smash
