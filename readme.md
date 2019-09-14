@@ -14,11 +14,11 @@
 | T7 Laser | 18/03/2017 | [tgd-multigame][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-projet_2018][t7-laser-2] | Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier<br/>Clavier et manette |
 | Cathedral Bloxxx | 18/03/2017 | [tgd-multigame][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] | [base][base]<br/>Aucune | Clavier<br/>Clavier |
-| Snake | 21/10/2017 | [T7GD2][snake-0]<br/>[T7GD2][snake-1]<br/>[tgd-final][snake-2]<br/>[tgd-projet_2018][snake-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
-| Tower Defense | 21/10/2017 | [T7GD2][tower-defense-0]<br/>[tgd-final][tower-defense-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
+| Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0]<br/>[tgd-snake3000][snake3000-1]<br/>[tgd-final][snake3000-2]<br/>[tgd-projet_2018][snake3000-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
+| Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense-0]<br/>[tgd-final][tower-defense-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin-0]<br/>[tgd-final][rogue-like-a-virgin-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Survival | 25/11/2017 | [tgd-survival][survival-0]<br/>[tgd-final][survival-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
-| Worms 3000 | 25/11/2017 | [tgd-worms3000][worms3000-0]<br/>[tgd-final][worms3000-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
+| Worms3000 | 25/11/2017 | [tgd-worms3000][worms3000-0]<br/>[tgd-final][worms3000-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
 | Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war-0]<br/>[tgd-final][age-of-war-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
 | La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Plague | 27/01/2018 | [tgd-plague][plague-0] | [base][base] | Clavier et manette |
@@ -73,11 +73,11 @@
 [cathedral-bloxxx-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/CathedralBloxxx
 [space-shooter-0]: https://github.com/TeleGD/tgd-space-shooter/tree/master/src
 [space-shooter-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/SpaceShooter
-[snake-0]: https://github.com/TeleGD/T7GD2/tree/master/src/snake
-[snake-1]: https://github.com/TeleGD/T7GD2/tree/master/src/snake2/snake
-[snake-2]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Snake
-[snake-3]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/snake
-[tower-defense-0]: https://github.com/TeleGD/T7GD2/tree/master/src/towerDefense
+[snake3000-0]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/snake
+[snake3000-1]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/snake2
+[snake3000-2]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Snake
+[snake3000-3]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/snake
+[tower-defense-0]: https://github.com/TeleGD/tgd-tower-defense/tree/master/src/towerDefense
 [tower-defense-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/TowerDefense
 [rogue-like-a-virgin-0]: https://github.com/TeleGD/tgd-rogue-like-a-virgin/tree/master/src
 [rogue-like-a-virgin-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/RogueLikeAVirgin
