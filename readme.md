@@ -50,6 +50,7 @@
 | - | - | - |
 | Rocket-LG | 12/05/2016 | [tgd-rocket-lg][rocket-lg-0] |
 | Unitest | 07/03/2019 | [tgd-unitest][unitest-0] |
+| Smash Reborn | 03/10/2019 | [tgd-smash-reborn][smash-reborn-0] |
 
 ## Jeux *ECMAScript* / *Noyo*
 
@@ -121,5 +122,6 @@
 
 [rocket-lg-0]: https://github.com/TeleGD/tgd-rocket-lg
 [unitest-0]: https://github.com/TeleGD/tgd-unitest
+[smash-reborn-0]: https://github.com/TeleGD/tgd-smash-reborn
 
 [tgd-grave-et-resurrected-0]: https://github.com/TeleGD/tgd-grave-et-resurrected
