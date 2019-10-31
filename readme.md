@@ -10,9 +10,9 @@
 | Super Fighter | 11/05/2016 | [tgd-super-fighter][super-fighter-0] | Aucune | Clavier et souris |
 | Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot-0] | Aucune | Clavier et souris |
 | Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom-0] | Aucune | Clavier |
-| Labyrinthe | 18/03/2017 | [tgd-multigame][labyrinthe-0]<br/>[tgd-final][labyrinthe-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
-| T7 Laser | 18/03/2017 | [tgd-multigame][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-projet_2018][t7-laser-2] | Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier<br/>Clavier et manette |
-| Cathedral Bloxxx | 18/03/2017 | [tgd-multigame][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
+| Labyrinthe | 18/03/2017 | [tgd-labyrinthe][labyrinthe-0]<br/>[tgd-final][labyrinthe-1]<br/>[tgd-multigame][labyrinthe-2] | Aucune<br/>Aucune | Clavier<br/>Clavier |
+| T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-multigame][t7-laser-2]<br/>[tgd-projet_2018][t7-laser-3] | Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier<br/>Clavier et manette |
+| Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1]<br/>[tgd-multigame][cathedral-bloxxx-2] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] | [base][base]<br/>Aucune | Clavier<br/>Clavier |
 | Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0]<br/>[tgd-snake3000][snake3000-1]<br/>[tgd-final][snake3000-2]<br/>[tgd-projet_2018][snake3000-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
 | Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense-0]<br/>[tgd-final][tower-defense-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
@@ -65,13 +65,16 @@
 [super-fighter-0]: https://github.com/TeleGD/tgd-super-fighter/tree/master/src/fr
 [jean-robot-0]: https://github.com/TeleGD/tgd-jean-robot/tree/master/src/fr
 [guard-slalom-0]: https://github.com/TeleGD/tgd-guard-slalom/tree/master/src/fr
-[labyrinthe-0]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game1
+[labyrinthe-0]: https://github.com/TeleGD/tgd-labyrinthe/tree/master/src/game1
 [labyrinthe-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Labyrinthe
-[t7-laser-0]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game2/world
+[labyrinthe-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game1
+[t7-laser-0]: https://github.com/TeleGD/tgd-t7-laser/tree/master/src/game2/world
 [t7-laser-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/T7Laser
-[t7-laser-2]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/t7Laser
-[cathedral-bloxxx-0]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game3/world
+[t7-laser-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game2/world
+[t7-laser-3]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/t7Laser
+[cathedral-bloxxx-0]: https://github.com/TeleGD/tgd-cathedral-bloxxx/tree/master/src/game3/world
 [cathedral-bloxxx-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/CathedralBloxxx
+[cathedral-bloxxx-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game3/world
 [space-shooter-0]: https://github.com/TeleGD/tgd-space-shooter/tree/master/src
 [space-shooter-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/SpaceShooter
 [snake3000-0]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/snake
