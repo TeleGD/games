@@ -1,5 +1,7 @@
 # Jeux de [*TeleGame Design*](https://telegd.github.io/)
 
+Pour les formations, voir [ici](https://github.com/TeleGD/formations)
+
 ## Jeux *Java* / *Slick2D*
 
 | Jeu | Date | Dépôts | Base | Contrôles |
@@ -78,23 +80,23 @@
 [cathedral-bloxxx-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game3
 [rook-defenders-0]: https://github.com/TeleGD/tgd-rook-defenders/tree/master/src/games/rookDefenders
 [rook-defenders-1]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game4
-[space-shooter-0]: https://github.com/TeleGD/tgd-space-shooter/tree/master/src
+[space-shooter-0]: https://github.com/TeleGD/tgd-space-shooter/tree/master/src/games/spaceShooter
 [space-shooter-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/SpaceShooter
-[snake3000-0]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/snake
-[snake3000-1]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/snake2
+[snake3000-0]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/games/snake3000
+[snake3000-1]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/games/snake3001
 [snake3000-2]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Snake
 [snake3000-3]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/snake
-[tower-defense-0]: https://github.com/TeleGD/tgd-tower-defense/tree/master/src/towerDefense
+[tower-defense-0]: https://github.com/TeleGD/tgd-tower-defense/tree/master/src/games/towerDefense
 [tower-defense-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/TowerDefense
 [rogue-like-a-virgin-0]: https://github.com/TeleGD/tgd-rogue-like-a-virgin/tree/master/src/games/rogueLikeAVirgin
 [rogue-like-a-virgin-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/RogueLikeAVirgin
-[survival-0]: https://github.com/TeleGD/tgd-survival/tree/master/src/survival
+[survival-0]: https://github.com/TeleGD/tgd-survival/tree/master/src/games/survival
 [survival-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Survival
-[worms3000-0]: https://github.com/TeleGD/tgd-worms3000/tree/master/src/worms
+[worms3000-0]: https://github.com/TeleGD/tgd-worms3000/tree/master/src/games/worms3000
 [worms3000-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Worms3000
-[age-of-war-0]: https://github.com/TeleGD/tgd-age-of-war/tree/master/src/aow
+[age-of-war-0]: https://github.com/TeleGD/tgd-age-of-war/tree/master/src/games/ageOfWar
 [age-of-war-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/AgeOfWar
-[la-sainte-ventouse-0]: https://github.com/TeleGD/tgd-la-sainte-ventouse/tree/master/src/game2
+[la-sainte-ventouse-0]: https://github.com/TeleGD/tgd-la-sainte-ventouse/tree/master/src/games/laSainteVentouse
 [la-sainte-ventouse-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/LaSainteVentouse
 [plague-0]: https://github.com/TeleGD/tgd-plague/tree/master/src/plague
 [smash-0]: https://github.com/TeleGD/tgd-smash/tree/master/src/smash
