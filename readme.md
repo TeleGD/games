@@ -24,7 +24,7 @@ Pour les formations, voir [ici](https://github.com/TeleGD/formations)
 | Worms3000 | 25/11/2017 | [tgd-worms3000][worms3000-0]<br/>[tgd-final][worms3000-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
 | Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war-0]<br/>[tgd-final][age-of-war-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
 | La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
-| Plague | 27/01/2018 | [tgd-plague][plague-0] | [base][base] | Clavier et manette |
+| Preach or Die 1000: Holy Plague | 27/01/2018 | [tgd-preach-or-die1000-holy-plague][preach-or-die1000-holy-plague-0] | [base][base] | Clavier et manette |
 | Smash | 27/01/2018 | [tgd-smash][smash-0] | [base][base] | Clavier et manette |
 | Pacman Battle | 15/02/2018 | [tgd-projet_2018][pacman-battle-0] | [multi][multi] | Clavier et manette |
 | Aztecs Pyramids | 22/02/2018 | [tgd-projet_2018][aztecs-pyramids-0] | [multi][multi] | Clavier et manette |
@@ -55,7 +55,7 @@ Pour les formations, voir [ici](https://github.com/TeleGD/formations)
 | Rocket-LG | 12/05/2016 | [tgd-rocket-lg][rocket-lg-0] |
 | Unitest | 07/03/2019 | [tgd-unitest][unitest-0] |
 | Smash Reborn | 03/10/2019 | [tgd-smash-reborn][smash-reborn-0] |
-| Antichamber | 06/11/2019 | [tgd-antichamber][antichamber-0] |
+| Mansion of the Lost | 06/11/2019 | [tgd-mansion-of-the-lost][mansion-of-the-lost-0] |
 
 ## Jeux *ECMAScript* / *Noyo*
 
@@ -100,7 +100,7 @@ Pour les formations, voir [ici](https://github.com/TeleGD/formations)
 [age-of-war-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/AgeOfWar
 [la-sainte-ventouse-0]: https://github.com/TeleGD/tgd-la-sainte-ventouse/tree/master/src/games/laSainteVentouse
 [la-sainte-ventouse-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/LaSainteVentouse
-[plague-0]: https://github.com/TeleGD/tgd-plague/tree/master/src/plague
+[preach-or-die1000-holy-plague-0]: https://github.com/TeleGD/tgd-preach-or-die1000-holy-plague/tree/master/src/games/preachOrDie1000HolyPlague
 [smash-0]: https://github.com/TeleGD/tgd-smash/tree/master/src/smash
 [pacman-battle-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/battle
 [aztecs-pyramids-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/aztecPyramids
@@ -134,6 +134,6 @@ Pour les formations, voir [ici](https://github.com/TeleGD/formations)
 [rocket-lg-0]: https://github.com/TeleGD/tgd-rocket-lg
 [unitest-0]: https://github.com/TeleGD/tgd-unitest
 [smash-reborn-0]: https://github.com/TeleGD/tgd-smash-reborn
-[antichamber-0]: https://github.com/TeleGD/tgd-antichamber
+[mansion-of-the-lost-0]: https://github.com/TeleGD/tgd-mansion-of-the-lost
 
 [tgd-grave-et-resurrected-0]: https://github.com/TeleGD/tgd-grave-et-resurrected
