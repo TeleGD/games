@@ -2,6 +2,8 @@
 
 Pour les formations, voir [ici](https://github.com/TeleGD/formations)
 
+Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
+
 ## Jeux *Java* / *Slick2D*
 
 | Jeu | Date | Dépôts | Base | Contrôles |
