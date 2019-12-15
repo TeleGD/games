@@ -15,11 +15,11 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot-0] | Aucune | Clavier et souris |
 | Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom-0] | Aucune | Clavier |
 | Labyrinthe | 18/03/2017 | [tgd-labyrinthe][labyrinthe-0]<br/>[tgd-final][labyrinthe-1]<br/>[tgd-multigame][labyrinthe-2] | Aucune<br/>Aucune<br/>Aucune | Clavier et souris<br/>Clavier<br/>Clavier et souris |
-| T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-multigame][t7-laser-2]<br/>[tgd-projet_2018][t7-laser-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier<br/>Clavier et souris<br/>Clavier et manette |
+| T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-multigame][t7-laser-2]<br/>[tgd-telecom-party][t7-laser-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier<br/>Clavier et souris<br/>Clavier et manette |
 | Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1]<br/>[tgd-multigame][cathedral-bloxxx-2] | Aucune<br/>Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris |
 | Rook Defenders | 18/03/2017 | [tgd-rook-defenders][rook-defenders-0]<br/>[tgd-multigame][rook-defenders-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] | [base][base]<br/>Aucune | Clavier<br/>Clavier |
-| Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0]<br/>[tgd-snake3000][snake3000-1]<br/>[tgd-final][snake3000-2]<br/>[tgd-projet_2018][snake3000-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
+| Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0]<br/>[tgd-snake3000][snake3000-1]<br/>[tgd-final][snake3000-2]<br/>[tgd-telecom-party][snake3000-3] | Aucune<br/>Aucune<br/>Aucune<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
 | Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense-0]<br/>[tgd-final][tower-defense-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin-0]<br/>[tgd-final][rogue-like-a-virgin-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Survival | 25/11/2017 | [tgd-survival][survival-0]<br/>[tgd-final][survival-1] | Aucune<br/>Aucune | Clavier<br/>Clavier |
@@ -28,17 +28,17 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucune<br/>Aucune | Clavier et souris<br/>Clavier et souris |
 | Preach or Die 1000: Holy Plague | 27/01/2018 | [tgd-preach-or-die1000-holy-plague][preach-or-die1000-holy-plague-0] | [base][base] | Clavier et manette |
 | Smash | 27/01/2018 | [tgd-smash][smash-0] | [base][base] | Clavier et manette |
-| Pacman Battle | 15/02/2018 | [tgd-projet_2018][pacman-battle-0] | [multi][multi] | Clavier et manette |
-| Aztecs Pyramids | 22/02/2018 | [tgd-projet_2018][aztecs-pyramids-0] | [multi][multi] | Clavier et manette |
-| Pong | 23/03/2018 | [tgd-projet_2018][pong-0] | [multi][multi] | Clavier et manette |
-| Komtuve | 29/03/2018 | [tgd-projet_2018][komtuve-0] | [multi][multi] | Clavier et manette |
-| Reflex | 29/03/2018 | [tgd-projet_2018][reflex-0] | [multi][multi] | Clavier et manette |
-| Clicker | 12/04/2018 | [tgd-projet_2018][clicker-0] | [multi][multi] | Clavier et manette |
-| Code Fall | 13/04/2018 | [tgd-projet_2018][code-fall-0] | [multi][multi] | Clavier et manette |
-| Bomberman | 13/04/2018 | [tgd-bomberman][bomberman-0]<br/>[tgd-projet_2018][bomberman-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
-| Maze | 13/04/2018 | [tgd-maze][maze-0]<br/>[tgd-projet_2018][maze-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
-| Path Painting | 13/04/2018 | [tgd-path-painting][path-painting-0]<br/>[tgd-projet_2018][path-painting-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
-| Precise Lock | 24/04/2018 | [tgd-projet_2018][precise-lock-0] | [multi][multi] | Clavier et manette |
+| Pacman Battle | 15/02/2018 | [tgd-telecom-party][pacman-battle-0] | [multi][multi] | Clavier et manette |
+| Aztecs Pyramids | 22/02/2018 | [tgd-telecom-party][aztecs-pyramids-0] | [multi][multi] | Clavier et manette |
+| Pong | 23/03/2018 | [tgd-telecom-party][pong-0] | [multi][multi] | Clavier et manette |
+| Komtuve | 29/03/2018 | [tgd-telecom-party][komtuve-0] | [multi][multi] | Clavier et manette |
+| Reflex | 29/03/2018 | [tgd-telecom-party][reflex-0] | [multi][multi] | Clavier et manette |
+| Clicker | 12/04/2018 | [tgd-telecom-party][clicker-0] | [multi][multi] | Clavier et manette |
+| Code Fall | 13/04/2018 | [tgd-telecom-party][code-fall-0] | [multi][multi] | Clavier et manette |
+| Bomberman | 13/04/2018 | [tgd-bomberman][bomberman-0]<br/>[tgd-telecom-party][bomberman-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Maze | 13/04/2018 | [tgd-maze][maze-0]<br/>[tgd-telecom-party][maze-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Path Painting | 13/04/2018 | [tgd-path-painting][path-painting-0]<br/>[tgd-telecom-party][path-painting-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Precise Lock | 24/04/2018 | [tgd-telecom-party][precise-lock-0] | [multi][multi] | Clavier et manette |
 | TeleKingdom | 06/09/2018 | [tgd-telekingdom][telekingdom-0] | [base][base] | Clavier |
 | Solar System | 11/10/2018 | [tgd-solar-system][solar-system-0] | [base][base] | Clavier et souris |
 | Grave-ET | 20/10/2018 | [tgd-grave-et][grave-et-0] | [base][base] | Clavier |
@@ -78,7 +78,7 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [t7-laser-0]: https://github.com/TeleGD/tgd-t7-laser/tree/master/src/games/t7Laser
 [t7-laser-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/T7Laser
 [t7-laser-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game2
-[t7-laser-3]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/t7Laser
+[t7-laser-3]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/t7Laser
 [cathedral-bloxxx-0]: https://github.com/TeleGD/tgd-cathedral-bloxxx/tree/master/src/games/cathedralBloxxx
 [cathedral-bloxxx-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/CathedralBloxxx
 [cathedral-bloxxx-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game3
@@ -89,7 +89,7 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [snake3000-0]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/games/snake3000
 [snake3000-1]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/games/snake3001
 [snake3000-2]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Snake
-[snake3000-3]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/snake
+[snake3000-3]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/snake
 [tower-defense-0]: https://github.com/TeleGD/tgd-tower-defense/tree/master/src/games/towerDefense
 [tower-defense-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/TowerDefense
 [rogue-like-a-virgin-0]: https://github.com/TeleGD/tgd-rogue-like-a-virgin/tree/master/src/games/rogueLikeAVirgin
@@ -104,20 +104,20 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [la-sainte-ventouse-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/LaSainteVentouse
 [preach-or-die1000-holy-plague-0]: https://github.com/TeleGD/tgd-preach-or-die1000-holy-plague/tree/master/src/games/preachOrDie1000HolyPlague
 [smash-0]: https://github.com/TeleGD/tgd-smash/tree/master/src/smash
-[pacman-battle-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/battle
-[aztecs-pyramids-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/aztecPyramids
-[pong-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/pong
-[komtuve-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/komtuve
-[reflex-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/reflex
-[clicker-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/clicker
-[code-fall-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/codeFall
+[pacman-battle-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/battle
+[aztecs-pyramids-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/aztecPyramids
+[pong-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pong
+[komtuve-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/komtuve
+[reflex-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/reflex
+[clicker-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/clicker
+[code-fall-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/codeFall
 [bomberman-0]: https://github.com/TeleGD/tgd-bomberman/tree/master/src/games/bomberman
-[bomberman-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/bomberman
+[bomberman-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/bomberman
 [maze-0]: https://github.com/TeleGD/tgd-maze/tree/master/src/games/maze
-[maze-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/maze
+[maze-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/maze
 [path-painting-0]: https://github.com/TeleGD/tgd-path-painting/tree/master/src/games/pathPainting
-[path-painting-1]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/pathPainting
-[precise-lock-0]: https://github.com/TeleGD/tgd-projet_2018/tree/master/src/games/preciseLock
+[path-painting-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pathPainting
+[precise-lock-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/preciseLock
 [telekingdom-0]: https://github.com/TeleGD/tgd-telekingdom/tree/master/src/telekingdom
 [solar-system-0]: https://github.com/TeleGD/tgd-solar-system/tree/master/src/solar_system
 [grave-et-0]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/graveEt
