@@ -4,7 +4,7 @@
 			"title": "Another Brick in the Cloud",
 			"date": "2015-11-06",
 			"repository": "tgd-another-brick-in-the-cloud",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Space Cops",
@@ -16,31 +16,31 @@
 			"title": "Casse-briques",
 			"date": "2016-04-30",
 			"repository": "tgd-casse-briques",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Super Fighter",
 			"date": "2016-05-11",
 			"repository": "tgd-super-fighter",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Jean Robot",
 			"date": "2016-10-06",
 			"repository": "tgd-jean-robot",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Guard Slalom",
 			"date": "2016-11-19",
 			"repository": "tgd-guard-slalom",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Labyrinthe",
 			"date": "2017-03-18",
 			"repository": "tgd-labyrinthe",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "T7 Laser",
@@ -58,13 +58,13 @@
 			"title": "Rook Defenders",
 			"date": "2017-03-18",
 			"repository": "tgd-rook-defenders",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Space Shooter",
 			"date": "2017-10-19",
 			"repository": "tgd-space-shooter",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Snake3000",
@@ -76,7 +76,7 @@
 			"title": "Tower Defense",
 			"date": "2017-10-21",
 			"repository": "tgd-tower-defense",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Rogue Like a Virgin",
@@ -88,31 +88,31 @@
 			"title": "Survival",
 			"date": "2017-11-25",
 			"repository": "tgd-survival",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Worms3000",
 			"date": "2017-11-25",
 			"repository": "tgd-worms3000",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Age of War",
 			"date": "2018-01-26",
 			"repository": "tgd-age-of-war",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "La Sainte Ventouse",
 			"date": "2018-01-26",
 			"repository": "tgd-la-sainte-ventouse",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Preach or Die 1000: Holy Plague",
 			"date": "2018-01-27",
 			"repository": "tgd-preach-or-die1000-holy-plague",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Pacman Battle",
@@ -160,19 +160,19 @@
 			"title": "Bomberman",
 			"date": "2018-04-13",
 			"repository": "tgd-bomberman",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Maze",
 			"date": "2018-04-13",
 			"repository": "tgd-maze",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Path Painting",
 			"date": "2018-04-13",
 			"repository": "tgd-path-painting",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Precise Lock",
@@ -208,37 +208,37 @@
 			"title": "Caramel au Beurre Salé",
 			"date": "2018-11-30",
 			"repository": "tgd-caramel-au-beurre-sale",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "The English's stone",
 			"date": "2019-02-19",
 			"repository": "tgd-the-english-s-stone",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Le bon gros son sa mère",
 			"date": "2019-03-09",
 			"repository": "tgd-le-bon-gros-son-sa-mere",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Phoenix Project",
 			"date": "2019-05-17",
 			"repository": "tgd-phoenix-project",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Color Truc",
 			"date": "2019-05-17",
 			"repository": "tgd-color-truc",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Cube Dungeon",
 			"date": "2019-11-07",
 			"repository": "tgd-cube-dungeon",
-			"priority": 0
+			"priority": 1
 		}
 	],
 	"cs": [
@@ -246,25 +246,25 @@
 			"title": "Rocket-LG",
 			"date": "2016-05-12",
 			"repository": "tgd-rocket-lg",
-			"priority": 0
+			"priority": 1
 		},
 		{
 			"title": "Unitest",
 			"date": "2019-03-07",
 			"repository": "tgd-unitest",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Smash Reborn",
 			"date": "2019-10-03",
 			"repository": "tgd-smash-reborn",
-			"priority": 2
+			"priority": 1
 		},
 		{
 			"title": "Mansion of the Lost",
 			"date": "2019-11-06",
 			"repository": "tgd-mansion-of-the-lost",
-			"priority": 0
+			"priority": 1
 		}
 	],
 	"js": [
@@ -272,7 +272,7 @@
 			"title": "Grave-ET Resurrected",
 			"date": "2018-12-31",
 			"repository": "tgd-grave-et-resurrected",
-			"priority": 0
+			"priority": 1
 		}
 	]
 }

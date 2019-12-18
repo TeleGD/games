@@ -7,8 +7,8 @@
 }
 /*~~~~~~ body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 html {
-	overflow: hidden;
 	height: 100%;
+	scroll-snap-type: y mandatory;
 }
 body {
 	overflow: hidden auto;
@@ -18,7 +18,6 @@ body {
 	background-color: #000;
 	color: #fff;
 	font-family: "Press Start 2P", monospace;
-	scroll-snap-type: y mandatory;
 }
 body::after {
 	content: "";
@@ -36,7 +35,8 @@ body::after {
 /*~~~~~~ main ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 main {
 	place-self: center;
-	max-width: 100%;
+	width: 100%;
+	max-width: 176rem;
 	margin: -2rem 0;
 	padding: 0 2rem;
 }
@@ -58,21 +58,33 @@ main > div {
 	margin: 4rem 0;
 	padding: 0 2rem;
 	background: #933;
+	color: #f99;
 	box-shadow: -2rem -2rem #600;
 	transform: translate(1rem, 1rem);
 	scroll-snap-align: center;
-	scroll-margin: 4rem;
+	scroll-margin: 4rem 0;
 }
 main > div:hover,
 main > div:focus-within {
 	background: #369;
+	color: #9cf;
 	box-shadow: -2rem -2rem #036;
 }
 main > div > h2 {
 	margin: 2rem 0;
 	padding: 0 2rem;
+	color: #fff;
 	text-align: center;
 	text-transform: uppercase;
+}
+main > div.featured > h2 {
+	color: #fc3;
+}
+main > div > h2 > a:not([download]):hover,
+main > div > h2 > a:not([download]):focus-within {
+	outline: 0;
+	outline-offset: 0;
+	text-decoration: none;
 }
 main > div > h2 > a:not([download])::before {
 	content: "";
@@ -86,25 +98,61 @@ main > div > h2 > a:not([download])::before {
 main > div > p {
 	margin: 2rem 0;
 	padding: 0 2rem;
-	color: #ccc;
 }
 main > div > figure {
+	position: relative;
 	margin: 2rem auto;
 	padding: 0 2rem;
 }
+main > div.featured > figure::after {
+	content: "1000\a !";
+	position: absolute;
+	top: -3rem;
+	left: -1rem;
+	width: 10rem;
+	height: 10rem;
+	padding: 4rem 0;
+	background: #fc3;
+	color: #c90;
+	font-size: 1rem;
+	text-align: center;
+	white-space: pre;
+	transform: rotate(-30deg);
+	clip-path: polygon(50% 0%, 64.695% 29.775%, 97.553% 34.549%, 73.776% 57.725%, 79.389% 90.451%, 50% 75%, 20.611% 90.451%, 26.224% 57.725%, 2.447% 34.549%, 35.305% 29.775%);
+}
+main > div > figure > figcaption {
+	font-size: 0;
+}
 main > div > figure > picture > img {
+	overflow: hidden;
+	position: relative;
+	display: inline-block;
 	width: 100%;
 	height: 100%;
-	object-fit: contain;
 	background: #000;
+	color: #999;
+	object-fit: contain;
 }
-@media screen and (min-width: 440px) {
+main > div > figure > picture > img::before {
+	content: attr(alt);
+	position: absolute;
+	top: 0;
+	left: 0;
+	place-content: center;
+	display: grid;
+	width: 100%;
+	height: 100%;
+	padding: 2rem;
+	background: #000;
+	text-align: center;
+}
+@media screen and (min-width: 27.5em) {
 	main > div > figure {
 		width: 36rem;
 		height: 18rem;
 	}
 }
-@media screen and (min-width: 880px) {
+@media screen and (min-width: 55em) {
 	main > div {
 		float: left;
 		clear: both;
@@ -114,8 +162,12 @@ main > div > figure > picture > img {
 		float: right;
 		clear: right;
 	}
+	main > div:nth-of-type(odd):last-of-type {
+		float: none;
+		margin: auto;
+	}
 }
-@media screen and (min-width: 660px) and (max-width: 880px), screen and (min-width: 1320px) {
+@media screen and (min-width: 41.25em) and (max-width: 54.9375em), screen and (min-width: 82.5em) {
 	main > div {
 		min-height: 22rem;
 		padding: 0 2rem 0 36rem;
@@ -130,5 +182,9 @@ main > div > figure > picture > img {
 	}
 	main > div:nth-of-type(even) > figure {
 		left: calc(100% - 36rem);
+	}
+	main > div:nth-of-type(even).featured > figure::after {
+		left: calc(100% - 9rem);
+		transform: rotate(30deg);
 	}
 }
