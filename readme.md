@@ -53,16 +53,16 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 
 | Jeu | Date | Dépôts |
 | - | - | - |
-| Rocket-LG | 12/05/2016 | [tgd-rocket-lg][rocket-lg-0] |
-| Unitest | 07/03/2019 | [tgd-unitest][unitest-0] |
-| Smash Reborn | 03/10/2019 | [tgd-smash-reborn][smash-reborn-0] |
-| Mansion of the Lost | 06/11/2019 | [tgd-mansion-of-the-lost][mansion-of-the-lost-0] |
+| Rocket-LG | 12/05/2016 | [tgd-rocket-lg][rocket-lg-0] |
+| Unitest | 07/03/2019 | [tgd-unitest][unitest-0] |
+| Smash Reborn | 03/10/2019 | [tgd-smash-reborn][smash-reborn-0] |
+| Mansion of the Lost | 06/11/2019 | [tgd-mansion-of-the-lost][mansion-of-the-lost-0] |
 
 ## Jeux *ECMAScript* / *Noyo*
 
 | Jeu | Date | Dépôts |
 | - | - | - |
-| Grave-ET Resurrected | 31/12/2018 | [tgd-grave-et-resurrected][tgd-grave-et-resurrected-0] |
+| Grave-ET Resurrected | 31/12/2018 | [tgd-grave-et-resurrected][tgd-grave-et-resurrected-0] |
 
 
 [another-brick-in-the-cloud-0]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud/tree/master/src/fr

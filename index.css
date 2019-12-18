@@ -1,0 +1,134 @@
+@import url("../reset.css");
+@font-face {
+	font-family: "Press Start 2P";
+	font-style: normal;
+	font-weight: normal;
+	src: local("Press Start 2P Regular"), local("PressStart2P-Regular"), url("../fonts/press-start-2p.woff2") format("woff2"), url("../fonts/press-start-2p.woff") format("woff");
+}
+/*~~~~~~ body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+html {
+	overflow: hidden;
+	height: 100%;
+}
+body {
+	overflow: hidden auto;
+	display: grid;
+	height: 100%;
+	grid-auto-columns: 100%;
+	background-color: #000;
+	color: #fff;
+	font-family: "Press Start 2P", monospace;
+	scroll-snap-type: y mandatory;
+}
+body::after {
+	content: "";
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	z-index: -1;
+	width: 768px;
+	height: 768px;
+	max-width: calc(150% - 6rem);
+	max-height: calc(150% - 6rem);
+	background: url("../background.png") center / contain no-repeat;
+	transform: translate(-50%, -50%);
+}
+/*~~~~~~ main ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+main {
+	place-self: center;
+	max-width: 100%;
+	margin: -2rem 0;
+	padding: 0 2rem;
+}
+main > h1 {
+	min-height: 5rem;
+	margin: 4rem 0;
+	padding: 0 2rem;
+	color: transparent;
+	font-size: 4rem;
+	font-variant-caps: small-caps;
+	text-align: center;
+	text-shadow: .2rem .2rem #fff, -.2rem -.2rem #f00;
+	scroll-snap-align: center;
+	scroll-margin: 4rem;
+}
+main > div {
+	position: relative;
+	display: flow-root;
+	margin: 4rem 0;
+	padding: 0 2rem;
+	background: #933;
+	box-shadow: -2rem -2rem #c66;
+	transform: translate(1rem, 1rem);
+	scroll-snap-align: center;
+	scroll-margin: 4rem;
+}
+main > div:hover,
+main > div:focus-within {
+	background: #369;
+	box-shadow: -2rem -2rem #036;
+}
+main > div > h2 {
+	margin: 2rem 0;
+	padding: 0 2rem;
+	text-align: center;
+	text-transform: uppercase;
+}
+main > div > h2 > a:not([download])::before {
+	content: "";
+	position: absolute;
+	top: -2rem;
+	left: -2rem;
+	z-index: 1;
+	width: calc(100% + 2rem);
+	height: calc(100% + 2rem);
+}
+main > div > p {
+	margin: 2rem 0;
+	padding: 0 2rem;
+	color: #ccc;
+}
+main > div > figure {
+	margin: 2rem auto;
+	padding: 0 2rem;
+}
+main > div > figure > picture > img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+	background: #000;
+}
+@media screen and (min-width: 440px) {
+	main > div > figure {
+		width: 36rem;
+		height: 18rem;
+	}
+}
+@media screen and (min-width: 880px) {
+	main > div {
+		float: left;
+		clear: both;
+		width: calc(50% - 1rem);
+	}
+	main > div:nth-of-type(even) {
+		float: right;
+		clear: right;
+	}
+}
+@media screen and (min-width: 660px) and (max-width: 880px), screen and (min-width: 1320px) {
+	main > div {
+		min-height: 22rem;
+		padding: 0 2rem 0 36rem;
+	}
+	main > div:nth-of-type(even) {
+		padding: 0 36rem 0 2rem;
+	}
+	main > div > figure {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+	main > div:nth-of-type(even) > figure {
+		left: calc(100% - 36rem);
+	}
+}
