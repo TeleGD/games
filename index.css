@@ -58,7 +58,7 @@ main > div {
 	margin: 4rem 0;
 	padding: 0 2rem;
 	background: #933;
-	box-shadow: -2rem -2rem #c66;
+	box-shadow: -2rem -2rem #600;
 	transform: translate(1rem, 1rem);
 	scroll-snap-align: center;
 	scroll-margin: 4rem;
