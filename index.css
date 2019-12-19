@@ -111,10 +111,10 @@ main > div.featured > figure::after {
 	left: -1rem;
 	width: 10rem;
 	height: 10rem;
-	padding: 4rem 0;
+	padding: 3.75rem 0 3.25rem;
 	background: #fc3;
 	color: #c90;
-	font-size: 1rem;
+	font-size: 1.2rem;
 	text-align: center;
 	white-space: pre;
 	transform: rotate(-30deg);
