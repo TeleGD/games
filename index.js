@@ -59,11 +59,9 @@
 	const escape = /[^-0-9A-Z_a-z]/g;
 	const id = location.hash.slice(1);
 	let target = null;
-	console.log(id)
 	if (id.length !== 0) {
 		target = document.querySelector(`main > div#${id.replace(escape, (character) => `\\${character.codePointAt(0).toString(16)}`)} > h2 > a:not([download])`);
 	}
-	console.log(target)
 	if (target === null) {
 		target = document.querySelector(`main > div > h2 > a:not([download])`);
 	}
