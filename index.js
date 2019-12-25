@@ -9,13 +9,12 @@
 	});
 	const response = await fetch("./index.json");
 	const json = await response.json();
-	const {java, cs, js} = json;
-	let first = true;
-	for (const game of [...java, ...cs, ...js]) {
+	for (const game of json) {
 		if (game.priority !== 1 && game.priority !== 2) {
 			continue;
 		}
 		const division = document.createElement("div");
+		division.id = game.repository;
 		if (game.priority === 2) {
 			division.classList.add("featured");
 		}
@@ -23,10 +22,6 @@
 		const link = document.createElement("a");
 		link.href = `//github.com/TeleGD/${game.repository}`;
 		link.textContent = game.title;
-		if (first == true) {
-			link.setAttribute("autofocus", "");
-			first = false;
-		}
 		heading.append(link);
 		const paragraph = document.createElement("p");
 		const time = document.createElement("time");
@@ -61,5 +56,20 @@
 		firstGame.before(division);
 		firstGame = division;
 	}
-	document.querySelector("main > div > h2 > a:not([download])").focus();
+	const escape = /[^-0-9A-Z_a-z]/g;
+	const id = location.hash.slice(1);
+	let target = null;
+	console.log(id)
+	if (id.length !== 0) {
+		target = document.querySelector(`main > div#${id.replace(escape, (character) => `\\${character.codePointAt(0).toString(16)}`)} > h2 > a:not([download])`);
+	}
+	console.log(target)
+	if (target === null) {
+		target = document.querySelector(`main > div > h2 > a:not([download])`);
+	}
+	target.setAttribute("autofocus", "");
+	target.focus();
+	target.scrollIntoView({
+		"block": "center",
+	});
 }) ();

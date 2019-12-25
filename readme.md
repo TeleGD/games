@@ -64,6 +64,12 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | - | - | - |
 | Grave-ET Resurrected | 31/12/2018 | [tgd-grave-et-resurrected][tgd-grave-et-resurrected-0] |
 
+## Jeux *GameMaker Studio*
+
+| Jeu | Date | Dépôts |
+| - | - | - |
+| Clicker Wow | 07/12/2019 | [tgd-clicker-wow][tgd-clicker-wow-0] |
+
 
 [another-brick-in-the-cloud-0]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud/tree/master/src/fr
 [space-cops-0]: https://github.com/TeleGD/tgd-space-cops/tree/master/src/spaceCops
@@ -137,3 +143,5 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [mansion-of-the-lost-0]: https://github.com/TeleGD/tgd-mansion-of-the-lost
 
 [tgd-grave-et-resurrected-0]: https://github.com/TeleGD/tgd-grave-et-resurrected
+
+[tgd-clicker-wow-0]: https://github.com/TeleGD/tgd-clicker-wow
