@@ -24,13 +24,13 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin-0]<br/>[tgd-final][rogue-like-a-virgin-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
 | Survival | 25/11/2017 | [tgd-survival][survival-0]<br/>[tgd-final][survival-1] | Aucun<br/>Aucun | Clavier<br/>Clavier |
 | Worms3000 | 25/11/2017 | [tgd-worms3000][worms3000-0]<br/>[tgd-final][worms3000-1] | Aucun<br/>Aucun | Clavier<br/>Clavier |
+| Telecom Party | 25/01/2018 | [tgd-telecom-party][telecom-party-0] | [multi][multi] | Clavier et manette |
 | Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war-0]<br/>[tgd-final][age-of-war-1] | Aucun<br/>Aucun | Clavier<br/>Clavier |
 | La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
 | Preach or Die 1000: Holy Plague | 27/01/2018 | [tgd-preach-or-die1000-holy-plague][preach-or-die1000-holy-plague-0] | [base][base] | Clavier et souris |
 | Pacman Battle | 15/02/2018 | [tgd-telecom-party][pacman-battle-0] | [multi][multi] | Clavier et manette |
-| Aztecs Pyramids | 22/02/2018 | [tgd-telecom-party][aztecs-pyramids-0] | [multi][multi] | Clavier et manette |
+| Aztec Pyramids | 22/02/2018 | [tgd-telecom-party][aztec-pyramids-0] | [multi][multi] | Clavier et manette |
 | Pong | 23/03/2018 | [tgd-telecom-party][pong-0] | [multi][multi] | Clavier et manette |
-| Komtuve | 29/03/2018 | [tgd-telecom-party][komtuve-0] | [multi][multi] | Clavier et manette |
 | Reflex | 29/03/2018 | [tgd-telecom-party][reflex-0] | [multi][multi] | Clavier et manette |
 | Clicker | 12/04/2018 | [tgd-telecom-party][clicker-0] | [multi][multi] | Clavier et manette |
 | Code Fall | 13/04/2018 | [tgd-telecom-party][code-fall-0] | [multi][multi] | Clavier et manette |
@@ -94,7 +94,7 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [snake3000-0]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/games/snake3000
 [snake3000-1]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/games/snake3001
 [snake3000-2]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Snake
-[snake3000-3]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/snake
+[snake3000-3]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/snake3000
 [tower-defense-0]: https://github.com/TeleGD/tgd-tower-defense/tree/master/src/games/towerDefense
 [tower-defense-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/TowerDefense
 [rogue-like-a-virgin-0]: https://github.com/TeleGD/tgd-rogue-like-a-virgin/tree/master/src/games/rogueLikeAVirgin
@@ -103,15 +103,15 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [survival-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Survival
 [worms3000-0]: https://github.com/TeleGD/tgd-worms3000/tree/master/src/games/worms3000
 [worms3000-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Worms3000
+[telecom-party-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/telecomParty
 [age-of-war-0]: https://github.com/TeleGD/tgd-age-of-war/tree/master/src/games/ageOfWar
 [age-of-war-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/AgeOfWar
 [la-sainte-ventouse-0]: https://github.com/TeleGD/tgd-la-sainte-ventouse/tree/master/src/games/laSainteVentouse
 [la-sainte-ventouse-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/LaSainteVentouse
 [preach-or-die1000-holy-plague-0]: https://github.com/TeleGD/tgd-preach-or-die1000-holy-plague/tree/master/src/games/preachOrDie1000HolyPlague
-[pacman-battle-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/battle
-[aztecs-pyramids-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/aztecPyramids
+[pacman-battle-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pacmanBattle
+[aztec-pyramids-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/aztecPyramids
 [pong-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pong
-[komtuve-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/komtuve
 [reflex-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/reflex
 [clicker-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/clicker
 [code-fall-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/codeFall

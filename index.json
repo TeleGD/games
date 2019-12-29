@@ -119,6 +119,13 @@
 		"priority": 1
 	},
 	{
+		"title": "Telecom Party",
+		"date": "2018-01-25",
+		"repository": "tgd-telecom-party",
+		"engine": "Slick2D",
+		"priority": 0
+	},
+	{
 		"title": "Age of War",
 		"date": "2018-01-26",
 		"repository": "tgd-age-of-war",
@@ -147,7 +154,7 @@
 		"priority": 0
 	},
 	{
-		"title": "Aztecs Pyramids",
+		"title": "Aztec Pyramids",
 		"date": "2018-02-22",
 		"repository": "tgd-telecom-party",
 		"engine": "Slick2D",
@@ -156,13 +163,6 @@
 	{
 		"title": "Pong",
 		"date": "2018-03-23",
-		"repository": "tgd-telecom-party",
-		"engine": "Slick2D",
-		"priority": 0
-	},
-	{
-		"title": "Komtuve",
-		"date": "2018-03-29",
 		"repository": "tgd-telecom-party",
 		"engine": "Slick2D",
 		"priority": 0
