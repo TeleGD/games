@@ -156,9 +156,9 @@
 	{
 		"title": "Aztec Pyramids",
 		"date": "2018-02-22",
-		"repository": "tgd-telecom-party",
+		"repository": "tgd-aztec-pyramids",
 		"engine": "Slick2D",
-		"priority": 0
+		"priority": 1
 	},
 	{
 		"title": "Pong",
