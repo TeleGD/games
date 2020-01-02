@@ -149,9 +149,9 @@
 	{
 		"title": "Pacman Battle",
 		"date": "2018-02-15",
-		"repository": "tgd-telecom-party",
+		"repository": "tgd-pacman-battle",
 		"engine": "Slick2D",
-		"priority": 0
+		"priority": 1
 	},
 	{
 		"title": "Aztec Pyramids",
@@ -163,30 +163,30 @@
 	{
 		"title": "Pong",
 		"date": "2018-03-23",
-		"repository": "tgd-telecom-party",
+		"repository": "tgd-pong",
 		"engine": "Slick2D",
-		"priority": 0
+		"priority": 1
 	},
 	{
 		"title": "Reflex",
 		"date": "2018-03-29",
-		"repository": "tgd-telecom-party",
+		"repository": "tgd-reflex",
 		"engine": "Slick2D",
-		"priority": 0
+		"priority": 1
 	},
 	{
 		"title": "Clicker",
 		"date": "2018-04-12",
-		"repository": "tgd-telecom-party",
+		"repository": "tgd-clicker",
 		"engine": "Slick2D",
-		"priority": 0
+		"priority": 1
 	},
 	{
 		"title": "Code Fall",
 		"date": "2018-04-13",
-		"repository": "tgd-telecom-party",
+		"repository": "tgd-code-fall",
 		"engine": "Slick2D",
-		"priority": 0
+		"priority": 1
 	},
 	{
 		"title": "Bomberman",
@@ -212,9 +212,9 @@
 	{
 		"title": "Precise Lock",
 		"date": "2018-04-24",
-		"repository": "tgd-telecom-party",
+		"repository": "tgd-precise-lock",
 		"engine": "Slick2D",
-		"priority": 0
+		"priority": 1
 	},
 	{
 		"title": "TeleKingdom",

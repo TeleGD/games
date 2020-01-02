@@ -28,16 +28,16 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war-0]<br/>[tgd-final][age-of-war-1] | Aucun<br/>Aucun | Clavier<br/>Clavier |
 | La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
 | Preach or Die 1000: Holy Plague | 27/01/2018 | [tgd-preach-or-die1000-holy-plague][preach-or-die1000-holy-plague-0] | [base][base] | Clavier et souris |
-| Pacman Battle | 15/02/2018 | [tgd-telecom-party][pacman-battle-0] | [multi][multi] | Clavier et manette |
+| Pacman Battle | 15/02/2018 | [tgd-pacman-battle][pacman-battle-0]<br/>[tgd-telecom-party][pacman-battle-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
 | Aztec Pyramids | 22/02/2018 | [tgd-aztec-pyramids][aztec-pyramids-0] | [base][base] | Clavier |
-| Pong | 23/03/2018 | [tgd-telecom-party][pong-0] | [multi][multi] | Clavier et manette |
-| Reflex | 29/03/2018 | [tgd-telecom-party][reflex-0] | [multi][multi] | Clavier et manette |
-| Clicker | 12/04/2018 | [tgd-telecom-party][clicker-0] | [multi][multi] | Clavier et manette |
-| Code Fall | 13/04/2018 | [tgd-telecom-party][code-fall-0] | [multi][multi] | Clavier et manette |
+| Pong | 23/03/2018 | [tgd-pong][pong-0]<br/>[tgd-telecom-party][pong-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Reflex | 29/03/2018 | [tgd-reflex][reflex-0]<br/>[tgd-telecom-party][reflex-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Clicker | 12/04/2018 | [tgd-clicker][clicker-0]<br/>[tgd-telecom-party][clicker-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
+| Code Fall | 13/04/2018 | [tgd-code-fall][code-fall-0]<br/>[tgd-telecom-party][code-fall-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
 | Bomberman | 13/04/2018 | [tgd-bomberman][bomberman-0]<br/>[tgd-telecom-party][bomberman-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
 | Maze | 13/04/2018 | [tgd-maze][maze-0]<br/>[tgd-telecom-party][maze-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
 | Path Painting | 13/04/2018 | [tgd-path-painting][path-painting-0]<br/>[tgd-telecom-party][path-painting-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
-| Precise Lock | 24/04/2018 | [tgd-telecom-party][precise-lock-0] | [multi][multi] | Clavier et manette |
+| Precise Lock | 24/04/2018 | [tgd-precise-lock][precise-lock-0]<br/>[tgd-telecom-party][precise-lock-1] | [multi][multi]<br/>[multi][multi] | Clavier et manette<br/>Clavier et manette |
 | TeleKingdom | 06/09/2018 | [tgd-telekingdom][telekingdom-0] | [base][base] | Clavier |
 | Solar System | 11/10/2018 | [tgd-solar-system][solar-system-0] | [base][base] | Clavier et souris |
 | Grave-ET | 20/10/2018 | [tgd-grave-et][grave-et-0] | [base][base] | Clavier |
@@ -109,19 +109,25 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [la-sainte-ventouse-0]: https://github.com/TeleGD/tgd-la-sainte-ventouse/tree/master/src/games/laSainteVentouse
 [la-sainte-ventouse-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/LaSainteVentouse
 [preach-or-die1000-holy-plague-0]: https://github.com/TeleGD/tgd-preach-or-die1000-holy-plague/tree/master/src/games/preachOrDie1000HolyPlague
-[pacman-battle-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pacmanBattle
+[pacman-battle-0]: https://github.com/TeleGD/tgd-pacman-battle/tree/master/src/games/pacmanBattle
+[pacman-battle-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pacmanBattle
 [aztec-pyramids-0]: https://github.com/TeleGD/tgd-aztec-pyramids/tree/master/src/games/aztecPyramids
-[pong-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pong
-[reflex-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/reflex
-[clicker-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/clicker
-[code-fall-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/codeFall
+[pong-0]: https://github.com/TeleGD/tgd-pong/tree/master/src/games/pong
+[pong-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pong
+[reflex-0]: https://github.com/TeleGD/tgd-reflex/tree/master/src/games/reflex
+[reflex-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/reflex
+[clicker-0]: https://github.com/TeleGD/tgd-clicker/tree/master/src/games/clicker
+[clicker-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/clicker
+[code-fall-0]: https://github.com/TeleGD/tgd-code-fall/tree/master/src/games/codeFall
+[code-fall-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/codeFall
 [bomberman-0]: https://github.com/TeleGD/tgd-bomberman/tree/master/src/games/bomberman
 [bomberman-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/bomberman
 [maze-0]: https://github.com/TeleGD/tgd-maze/tree/master/src/games/maze
 [maze-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/maze
 [path-painting-0]: https://github.com/TeleGD/tgd-path-painting/tree/master/src/games/pathPainting
 [path-painting-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/pathPainting
-[precise-lock-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/preciseLock
+[precise-lock-0]: https://github.com/TeleGD/tgd-precise-lock/tree/master/src/games/preciseLock
+[precise-lock-1]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/preciseLock
 [telekingdom-0]: https://github.com/TeleGD/tgd-telekingdom/tree/master/src/telekingdom
 [solar-system-0]: https://github.com/TeleGD/tgd-solar-system/tree/master/src/solar_system
 [grave-et-0]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/graveEt
