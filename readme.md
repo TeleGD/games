@@ -19,7 +19,7 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1]<br/>[tgd-multigame][cathedral-bloxxx-2] | Aucun<br/>Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris |
 | Rook Defenders | 18/03/2017 | [tgd-rook-defenders][rook-defenders-0]<br/>[tgd-multigame][rook-defenders-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
 | Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] | [base][base]<br/>Aucun | Clavier<br/>Clavier |
-| Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0]<br/>[tgd-snake3000][snake3000-1]<br/>[tgd-final][snake3000-2]<br/>[tgd-telecom-party][snake3000-3] | Aucun<br/>Aucun<br/>Aucun<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
+| Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0]<br/>[tgd-snake3000][snake3000-1]<br/>[tgd-final][snake3000-2]<br/>[tgd-telecom-party][snake3000-3] | [base][base]<br/>[base][base]<br/>Aucun<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |
 | Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense-0]<br/>[tgd-final][tower-defense-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
 | Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin-0]<br/>[tgd-final][rogue-like-a-virgin-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
 | Survival | 25/11/2017 | [tgd-survival][survival-0]<br/>[tgd-final][survival-1] | Aucun<br/>Aucun | Clavier<br/>Clavier |
