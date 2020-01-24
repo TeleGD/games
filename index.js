@@ -56,7 +56,7 @@
 					const link = document.createElement("a");
 					link.href = `//github.com/TeleGD/${game.repository}/releases/latest/download/${game.repository}.exe`;
 					link.download = `${game.repository}.exe`;
-					link.textContent = "Windows";
+					link.textContent = "Pour Windows";
 					paragraph.append(link);
 					division.append(paragraph);
 					break;
@@ -65,15 +65,15 @@
 					const paragraph = document.createElement("p");
 					const link = document.createElement("a");
 					link.href = `//telegd.github.io/${game.repository}/`;
-					link.textContent = "Web";
+					link.textContent = "En ligne";
 					paragraph.append(link);
 					division.append(paragraph);
 					break;
 				}
 				case "Slick2D": {
 					const assets = [
-						["x86", "X86 (Linux, Mac, Windows)"],
-						["arm", "ARM (Linux)"],
+						["x86", "Pour x86 (Linux, Mac et Windows)"],
+						["arm", "Pour ARM (Linux)"],
 					];
 					for (const asset of assets) {
 						const paragraph = document.createElement("p");
@@ -91,7 +91,7 @@
 					const paragraph = document.createElement("p");
 					const link = document.createElement("a");
 					link.href = `//telegd.github.io/${game.repository}/`;
-					link.textContent = "Web";
+					link.textContent = "En ligne";
 					paragraph.append(link);
 					division.append(paragraph);
 					break;
