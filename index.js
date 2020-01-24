@@ -49,6 +49,55 @@
 		picture.append(image);
 		figure.append(picture);
 		division.append(heading, paragraph, figure);
+		if (game.released) {
+			switch (game.engine) {
+				case "GameMaker Studio": {
+					const paragraph = document.createElement("p");
+					const link = document.createElement("a");
+					link.href = `//github.com/TeleGD/${game.repository}/releases/latest/download/${game.repository}.exe`;
+					link.download = `${game.repository}.exe`;
+					link.textContent = "Windows";
+					paragraph.append(link);
+					division.append(paragraph);
+					break;
+				}
+				case "Noyo": {
+					const paragraph = document.createElement("p");
+					const link = document.createElement("a");
+					link.href = `//telegd.github.io/${game.repository}/`;
+					link.textContent = "Web";
+					paragraph.append(link);
+					division.append(paragraph);
+					break;
+				}
+				case "Slick2D": {
+					const assets = [
+						["x86", "X86 (Linux, Mac, Windows)"],
+						["arm", "ARM (Linux)"],
+					];
+					for (const asset of assets) {
+						const paragraph = document.createElement("p");
+						const link = document.createElement("a");
+						link.href = `//github.com/TeleGD/${game.repository}/releases/latest/download/${game.repository}-${asset[0]}.zip`;
+						console.log(asset[0])
+						link.download = `${game.repository}-${asset[0]}.zip`;
+						link.textContent = asset[1];
+						paragraph.append(link);
+						division.append(paragraph);
+					}
+					break;
+				}
+				case "Unity": {
+					const paragraph = document.createElement("p");
+					const link = document.createElement("a");
+					link.href = `//telegd.github.io/${game.repository}/`;
+					link.textContent = "Web";
+					paragraph.append(link);
+					division.append(paragraph);
+					break;
+				}
+			}
+		}
 		if (game.priority === 2) {
 			title.after(division);
 			continue;

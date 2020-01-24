@@ -53,22 +53,25 @@ main > h1 {
 	scroll-margin: 4rem;
 }
 main > div {
+	--background: #933;
+	--foreground: #f99;
+	--shadow: #600;
 	position: relative;
 	display: flow-root;
 	margin: 4rem 0;
 	padding: 0 2rem;
-	background: #933;
-	color: #f99;
-	box-shadow: -2rem -2rem #600;
+	background: var(--background);
+	color: var(--foreground);
+	box-shadow: -2rem -2rem var(--shadow);
 	transform: translate(1rem, 1rem);
 	scroll-snap-align: center;
 	scroll-margin: 4rem 0;
 }
 main > div:hover,
 main > div:focus-within {
-	background: #369;
-	color: #9cf;
-	box-shadow: -2rem -2rem #036;
+	--background: #369;
+	--foreground: #9cf;
+	--shadow: #036;
 }
 main > div > h2 {
 	margin: 2rem 0;
@@ -98,6 +101,45 @@ main > div > h2 > a:not([download])::before {
 main > div > p {
 	margin: 2rem 0;
 	padding: 0 2rem;
+	text-align: center;
+}
+main > div > p ~ p {
+	clear: both;
+	position: relative;
+	z-index: 1;
+	text-align: left;
+}
+main > div > p ~ p > a {
+	position: relative;
+	display: inline-block;
+	width: calc(100% + 2rem);
+	margin: -1rem;
+	padding: 1rem 1rem 1rem 5rem;
+	background: var(--foreground);
+	color: var(--shadow);
+}
+main > div > p ~ p > a:hover,
+main > div > p ~ p > a:focus-within {
+	--background: #393;
+	--foreground: #9f9;
+	--shadow: #060;
+}
+main > div > p ~ p > a::before {
+	content: "";
+	position: absolute;
+	top: 1rem;
+	bottom: 1rem;
+	left: 1rem;
+	width: 2rem;
+	height: 2rem;
+	margin: auto;
+	background: var(--background);
+}
+main > div > p ~ p > a[download]::before {
+	clip-path: polygon(31.25% 12.5%, 68.75% 12.5%, 68.75% 50%, 87.5% 50%, 50% 87.5%, 12.5% 50%, 31.25% 50%);
+}
+main > div > p ~ p > a:not([download])::before {
+	clip-path: polygon(12.5% 6.699%, 87.5% 50%, 12.5% 93.301%);
 }
 main > div > figure {
 	position: relative;
@@ -178,7 +220,9 @@ main > div > figure > picture > img::before {
 	main > div > figure {
 		position: absolute;
 		top: 0;
+		bottom: 0;
 		left: 0;
+		margin: auto;
 	}
 	main > div:nth-of-type(even) > figure {
 		left: calc(100% - 36rem);

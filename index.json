@@ -4,6 +4,7 @@
 		"date": "2015-11-06",
 		"repository": "tgd-another-brick-in-the-cloud",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -11,6 +12,7 @@
 		"date": "2015-11-07",
 		"repository": "tgd-space-cops",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 2
 	},
 	{
@@ -18,6 +20,7 @@
 		"date": "2016-04-30",
 		"repository": "tgd-casse-briques",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -25,6 +28,7 @@
 		"date": "2016-05-11",
 		"repository": "tgd-super-fighter",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -32,6 +36,7 @@
 		"date": "2016-05-12",
 		"repository": "tgd-rocket-lg",
 		"engine": "Unity",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -39,6 +44,7 @@
 		"date": "2016-10-06",
 		"repository": "tgd-jean-robot",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -46,6 +52,7 @@
 		"date": "2016-11-19",
 		"repository": "tgd-guard-slalom",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -53,6 +60,7 @@
 		"date": "2017-03-18",
 		"repository": "tgd-labyrinthe",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -60,6 +68,7 @@
 		"date": "2017-03-18",
 		"repository": "tgd-t7-laser",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 2
 	},
 	{
@@ -67,6 +76,7 @@
 		"date": "2017-03-18",
 		"repository": "tgd-cathedral-bloxxx",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 2
 	},
 	{
@@ -74,6 +84,7 @@
 		"date": "2017-03-18",
 		"repository": "tgd-rook-defenders",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -81,6 +92,7 @@
 		"date": "2017-10-19",
 		"repository": "tgd-space-shooter",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -88,6 +100,7 @@
 		"date": "2017-10-21",
 		"repository": "tgd-snake3000",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 2
 	},
 	{
@@ -95,6 +108,7 @@
 		"date": "2017-10-21",
 		"repository": "tgd-tower-defense",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -102,6 +116,7 @@
 		"date": "2017-11-24",
 		"repository": "tgd-rogue-like-a-virgin",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 2
 	},
 	{
@@ -109,6 +124,7 @@
 		"date": "2017-11-25",
 		"repository": "tgd-survival",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -116,6 +132,7 @@
 		"date": "2017-11-25",
 		"repository": "tgd-worms3000",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -123,6 +140,7 @@
 		"date": "2018-01-25",
 		"repository": "tgd-telecom-party",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 0
 	},
 	{
@@ -130,6 +148,7 @@
 		"date": "2018-01-26",
 		"repository": "tgd-age-of-war",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -137,6 +156,7 @@
 		"date": "2018-01-26",
 		"repository": "tgd-la-sainte-ventouse",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -144,6 +164,7 @@
 		"date": "2018-01-27",
 		"repository": "tgd-preach-or-die1000-holy-plague",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -151,6 +172,7 @@
 		"date": "2018-02-15",
 		"repository": "tgd-pacman-battle",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -158,6 +180,7 @@
 		"date": "2018-02-22",
 		"repository": "tgd-aztec-pyramids",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -165,6 +188,7 @@
 		"date": "2018-03-23",
 		"repository": "tgd-pong",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -172,6 +196,7 @@
 		"date": "2018-03-29",
 		"repository": "tgd-reflex",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -179,6 +204,7 @@
 		"date": "2018-04-12",
 		"repository": "tgd-clicker",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -186,6 +212,7 @@
 		"date": "2018-04-13",
 		"repository": "tgd-code-fall",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -193,6 +220,7 @@
 		"date": "2018-04-13",
 		"repository": "tgd-bomberman",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -200,6 +228,7 @@
 		"date": "2018-04-13",
 		"repository": "tgd-maze",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -207,6 +236,7 @@
 		"date": "2018-04-13",
 		"repository": "tgd-path-painting",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -214,6 +244,7 @@
 		"date": "2018-04-24",
 		"repository": "tgd-precise-lock",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -221,6 +252,7 @@
 		"date": "2018-09-06",
 		"repository": "tgd-telekingdom",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 2
 	},
 	{
@@ -228,6 +260,7 @@
 		"date": "2018-10-11",
 		"repository": "tgd-solar-system",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 2
 	},
 	{
@@ -235,6 +268,7 @@
 		"date": "2018-10-20",
 		"repository": "tgd-grave-et",
 		"engine": "Slick2D",
+		"released": true,
 		"priority": 2
 	},
 	{
@@ -242,6 +276,7 @@
 		"date": "2018-10-20",
 		"repository": "tgd-hax-ball",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 2
 	},
 	{
@@ -249,6 +284,7 @@
 		"date": "2018-11-30",
 		"repository": "tgd-caramel-au-beurre-sale",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -256,6 +292,7 @@
 		"date": "2018-12-31",
 		"repository": "tgd-grave-et-resurrected",
 		"engine": "Noyo",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -263,6 +300,7 @@
 		"date": "2019-02-19",
 		"repository": "tgd-the-english-s-stone",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -270,6 +308,7 @@
 		"date": "2019-03-07",
 		"repository": "tgd-unitest",
 		"engine": "Unity",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -277,6 +316,7 @@
 		"date": "2019-03-09",
 		"repository": "tgd-le-bon-gros-son-sa-mere",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -284,6 +324,7 @@
 		"date": "2019-05-17",
 		"repository": "tgd-phoenix-project",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -291,6 +332,7 @@
 		"date": "2019-05-17",
 		"repository": "tgd-color-truc",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -298,6 +340,7 @@
 		"date": "2019-10-03",
 		"repository": "tgd-smash-reborn",
 		"engine": "Unity",
+		"released": true,
 		"priority": 1
 	},
 	{
@@ -305,6 +348,7 @@
 		"date": "2019-11-06",
 		"repository": "tgd-mansion-of-the-lost",
 		"engine": "Unity",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -312,6 +356,7 @@
 		"date": "2019-11-07",
 		"repository": "tgd-cube-dungeon",
 		"engine": "Slick2D",
+		"released": false,
 		"priority": 1
 	},
 	{
@@ -319,6 +364,7 @@
 		"date": "2019-12-07",
 		"repository": "tgd-clicker-wow",
 		"engine": "GameMaker Studio",
+		"released": true,
 		"priority": 1
 	}
 ]

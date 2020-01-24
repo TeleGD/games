@@ -121,7 +121,7 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [precise-lock-0]: https://github.com/TeleGD/tgd-precise-lock/tree/master/src/games/preciseLock
 [telekingdom-0]: https://github.com/TeleGD/tgd-telekingdom/tree/master/src/telekingdom
 [solar-system-0]: https://github.com/TeleGD/tgd-solar-system/tree/master/src/solar_system
-[grave-et-0]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/graveEt
+[grave-et-0]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/games/graveEt
 [hax-ball-0]: https://github.com/TeleGD/tgd-hax-ball/tree/master/src/haxBall
 [caramel-au-beurre-sale-0]: https://github.com/TeleGD/tgd-caramel-au-beurre-sale/tree/master/src/waterSymbol
 [the-english-s-stone-0]: https://github.com/TeleGD/tgd-the-english-s-stone/tree/master/src/theEnglishSStone
