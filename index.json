@@ -260,7 +260,7 @@
 		"date": "2018-10-11",
 		"repository": "tgd-solar-system",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 2
 	},
 	{

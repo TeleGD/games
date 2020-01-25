@@ -120,9 +120,9 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 [path-painting-0]: https://github.com/TeleGD/tgd-path-painting/tree/master/src/games/pathPainting
 [precise-lock-0]: https://github.com/TeleGD/tgd-precise-lock/tree/master/src/games/preciseLock
 [telekingdom-0]: https://github.com/TeleGD/tgd-telekingdom/tree/master/src/telekingdom
-[solar-system-0]: https://github.com/TeleGD/tgd-solar-system/tree/master/src/solar_system
+[solar-system-0]: https://github.com/TeleGD/tgd-solar-system/tree/master/src/games/solarSystem
 [grave-et-0]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/games/graveEt
-[hax-ball-0]: https://github.com/TeleGD/tgd-hax-ball/tree/master/src/haxBall
+[hax-ball-0]: https://github.com/TeleGD/tgd-hax-ball/tree/master/src/games/haxBall
 [caramel-au-beurre-sale-0]: https://github.com/TeleGD/tgd-caramel-au-beurre-sale/tree/master/src/waterSymbol
 [the-english-s-stone-0]: https://github.com/TeleGD/tgd-the-english-s-stone/tree/master/src/theEnglishSStone
 [le-bon-gros-son-sa-mere-0]: https://github.com/TeleGD/tgd-le-bon-gros-son-sa-mere/tree/master/src/leBonGrosSonSaMere
