@@ -276,7 +276,7 @@
 		"date": "2018-10-20",
 		"repository": "tgd-hax-ball",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 2
 	},
 	{
@@ -300,7 +300,7 @@
 		"date": "2019-02-19",
 		"repository": "tgd-the-english-s-stone",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 1
 	},
 	{
