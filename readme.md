@@ -15,8 +15,8 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot-0] | Aucun | Clavier et souris |
 | Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom-0] | Aucun | Clavier |
 | Labyrinthe | 18/03/2017 | [tgd-labyrinthe][labyrinthe-0]<br/>[tgd-final][labyrinthe-1]<br/>[tgd-multigame][labyrinthe-2] | [base][base]<br/>Aucun<br/>Aucun | Clavier<br/>Clavier<br/>Clavier et souris |
-| T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-multigame][t7-laser-2]<br/>[tgd-telecom-party][t7-laser-3] | [base][base]<br/>Aucun<br/>Aucun<br/>[multi][multi] | Clavier et souris<br/>Clavier<br/>Clavier et souris<br/>Clavier et manette |
-| Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1]<br/>[tgd-multigame][cathedral-bloxxx-2] | [base][base]<br/>Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris |
+| T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-multigame][t7-laser-2]<br/>[tgd-telecom-party][t7-laser-3] | [base][base]<br/>Aucun<br/>Aucun<br/>[multi][multi] | Clavier<br/>Clavier<br/>Clavier et souris<br/>Clavier et manette |
+| Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1]<br/>[tgd-multigame][cathedral-bloxxx-2] | [base][base]<br/>Aucun<br/>Aucun | Clavier<br/>Clavier et souris<br/>Clavier et souris |
 | Rook Defenders | 18/03/2017 | [tgd-rook-defenders][rook-defenders-0]<br/>[tgd-multigame][rook-defenders-1] | [base][base]<br/>Aucun | Clavier<br/>Clavier et souris |
 | Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] | [base][base]<br/>Aucun | Clavier<br/>Clavier |
 | Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0]<br/>[tgd-snake3000][snake3000-1]<br/>[tgd-final][snake3000-2]<br/>[tgd-telecom-party][snake3000-3] | [base][base]<br/>[base][base]<br/>Aucun<br/>[multi][multi] | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris<br/>Clavier et manette |

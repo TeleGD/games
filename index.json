@@ -68,7 +68,7 @@
 		"date": "2017-03-18",
 		"repository": "tgd-t7-laser",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 2
 	},
 	{
@@ -76,7 +76,7 @@
 		"date": "2017-03-18",
 		"repository": "tgd-cathedral-bloxxx",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 2
 	},
 	{
