@@ -72,7 +72,7 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 
 
 [another-brick-in-the-cloud-0]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud/tree/master/src/fr
-[space-cops-0]: https://github.com/TeleGD/tgd-space-cops/tree/master/src/spaceCops
+[space-cops-0]: https://github.com/TeleGD/tgd-space-cops/tree/master/src/games/spaceCops
 [casse-briques-0]: https://github.com/TeleGD/tgd-casse-briques/tree/master/src/fr
 [super-fighter-0]: https://github.com/TeleGD/tgd-super-fighter/tree/master/src/fr
 [jean-robot-0]: https://github.com/TeleGD/tgd-jean-robot/tree/master/src/fr

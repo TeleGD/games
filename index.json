@@ -12,7 +12,7 @@
 		"date": "2015-11-07",
 		"repository": "tgd-space-cops",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 2
 	},
 	{
