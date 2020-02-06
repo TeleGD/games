@@ -41,7 +41,7 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | TeleKingdom | 06/09/2018 | [tgd-telekingdom][telekingdom-0] | [base][base] | Clavier |
 | Solar System | 11/10/2018 | [tgd-solar-system][solar-system-0] | [base][base] | Clavier et souris |
 | Grave-ET | 20/10/2018 | [tgd-grave-et][grave-et-0] | [base][base] | Clavier |
-| Hax Ball | 20/10/2018 | [tgd-hax-ball][hax-ball-0]<br/>[tgd-hax-ball][hax-ball-1] | [base][base]<br/>[arcade][arcade] | Clavier<br/>Clavier et manette |
+| Hax Ball | 20/10/2018 | [tgd-hax-ball][hax-ball-0]<br/>[tgd-tncy-ball][hax-ball-1] | [base][base]<br/>[arcade][arcade] | Clavier<br/>Clavier et manette |
 | Caramel au Beurre Salé | 30/11/2018 | [tgd-caramel-au-beurre-sale][caramel-au-beurre-sale-0] | [base][base] | Clavier et souris |
 | The English's stone | 19/02/2019 | [tgd-the-english-s-stone][the-english-s-stone-0] | [base][base] | Clavier |
 | Le bon gros son sa mère | 09/03/2019 | [tgd-le-bon-gros-son-sa-mere][le-bon-gros-son-sa-mere-0] | [base][base] | Clavier et souris |
