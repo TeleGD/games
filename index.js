@@ -38,14 +38,17 @@
 		image.width = 1280;
 		image.height = 720;
 		image.src = `//raw.githubusercontent.com/TeleGD/${game.repository}/master/screenshot.png`;
+		if ("loading" in image) {
+			image.loading = "lazy";
+		}
 		image.addEventListener("load", () => {
 			image.width = image.naturalWidth;
 			image.height = image.naturalHeight;
+			image.alt = ""; // TODO
 		});
 		image.addEventListener("error", () => {
 			image.alt = "Aucun aperçu disponible";
 		});
-		image.alt = ""; // TODO
 		picture.append(image);
 		figure.append(picture);
 		division.append(heading, paragraph, figure);
@@ -79,7 +82,6 @@
 						const paragraph = document.createElement("p");
 						const link = document.createElement("a");
 						link.href = `//github.com/TeleGD/${game.repository}/releases/latest/download/${game.repository}-${asset[0]}.zip`;
-						console.log(asset[0])
 						link.download = `${game.repository}-${asset[0]}.zip`;
 						link.textContent = asset[1];
 						paragraph.append(link);
