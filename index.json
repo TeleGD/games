@@ -252,7 +252,7 @@
 		"date": "2018-09-06",
 		"repository": "tgd-telekingdom",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 2
 	},
 	{
