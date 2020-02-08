@@ -108,17 +108,22 @@
 		firstGame = division;
 	}
 	const escape = /[^-0-9A-Z_a-z]/g;
-	const id = location.hash.slice(1);
-	let target = null;
-	if (id.length !== 0) {
-		target = document.querySelector(`main > div#${id.replace(escape, (character) => `\\${character.codePointAt(0).toString(16)}`)} > h2 > a:not([download])`);
-	}
-	if (target === null) {
-		target = document.querySelector(`main > div > h2 > a:not([download])`);
-	}
-	target.setAttribute("autofocus", "");
-	target.focus();
-	target.scrollIntoView({
-		"block": "center",
+	const target = () => {
+		const id = location.hash.slice(1);
+		let element = null;
+		if (id !== "") {
+			element = document.querySelector(`main > div#${id.replace(escape, (character) => `\\${character.codePointAt(0).toString(16)}`)} > h2 > a:not([download])`);
+		}
+		if (element === null) {
+			element = document.querySelector("main > div > h2 > a:not([download])");
+		}
+		element.focus();
+		element.scrollIntoView({
+			"block": "center",
+		});
+	};
+	target();
+	window.addEventListener("hashchange", (event) => {
+		target();
 	});
 }) ();
