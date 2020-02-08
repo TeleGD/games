@@ -366,5 +366,21 @@
 		"engine": "GameMaker Studio",
 		"released": true,
 		"priority": 1
+	},
+	{
+		"title": "Shooter Arena",
+		"date": "2020-02-08",
+		"repository": "tgd-shooter-arena",
+		"engine": "Unity",
+		"released": false,
+		"priority": 1
+	},
+	{
+		"title": "Tetris Battle",
+		"date": "2020-02-08",
+		"repository": "tgd-tetris-battle",
+		"engine": "Slick2D",
+		"released": false,
+		"priority": 1
 	}
 ]
