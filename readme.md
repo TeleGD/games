@@ -58,7 +58,7 @@ Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
 | Unitest | 07/03/2019 | [tgd-unitest][unitest-0] |
 | Smash Reborn | 03/10/2019 | [tgd-smash-reborn][smash-reborn-0] |
 | Mansion of the Lost | 06/11/2019 | [tgd-mansion-of-the-lost][mansion-of-the-lost-0] |
-| Shooter Arena | 08/02/2020 | [tgd-shooter-arena][tgd-shooter-arena-0] |
+| Shooter Arena | 08/02/2020 | [tgd-shooter-arena][shooter-arena-0] |
 
 ## Jeux *ECMAScript* / *Noyo*
 
