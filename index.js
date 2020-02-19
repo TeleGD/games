@@ -37,10 +37,8 @@
 		const image = document.createElement("img");
 		image.width = 1280;
 		image.height = 720;
+		image.loading = "lazy";
 		image.src = `//raw.githubusercontent.com/TeleGD/${game.repository}/master/screenshot.png`;
-		if ("loading" in image) {
-			image.loading = "lazy";
-		}
 		image.addEventListener("load", () => {
 			image.width = image.naturalWidth;
 			image.height = image.naturalHeight;
