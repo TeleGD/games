@@ -5,7 +5,7 @@
 	font-weight: normal;
 	src: local("Press Start 2P Regular"), local("PressStart2P-Regular"), url("../fonts/press-start-2p.woff2") format("woff2"), url("../fonts/press-start-2p.woff") format("woff");
 }
-/*~~~~~~ body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~ html, body ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 html {
 	height: 100%;
 	scroll-snap-type: y mandatory;
@@ -52,7 +52,7 @@ main > h1 {
 	scroll-snap-align: center;
 	scroll-margin: 4rem;
 }
-main > div {
+main > section {
 	--background: #933;
 	--foreground: #f99;
 	--shadow: #600;
@@ -67,29 +67,29 @@ main > div {
 	scroll-snap-align: center;
 	scroll-margin: 4rem 0;
 }
-main > div:hover,
-main > div:focus-within {
+main > section:hover,
+main > section:focus-within {
 	--background: #369;
 	--foreground: #9cf;
 	--shadow: #036;
 }
-main > div > h2 {
+main > section > h2 {
 	margin: 2rem 0;
 	padding: 0 2rem;
 	color: #fff;
 	text-align: center;
 	text-transform: uppercase;
 }
-main > div.featured > h2 {
+main > section.featured > h2 {
 	color: #fc3;
 }
-main > div > h2 > a:not([download]):hover,
-main > div > h2 > a:not([download]):focus-within {
+main > section > h2 > a:hover,
+main > section > h2 > a:focus-within {
 	outline: 0;
 	outline-offset: 0;
 	text-decoration: none;
 }
-main > div > h2 > a:not([download])::before {
+main > section > h2 > a::before {
 	content: "";
 	position: absolute;
 	top: -2rem;
@@ -98,12 +98,12 @@ main > div > h2 > a:not([download])::before {
 	width: calc(100% + 2rem);
 	height: calc(100% + 2rem);
 }
-main > div > p {
+main > section > p {
 	margin: 2rem 0;
 	padding: 0 2rem;
 	text-align: center;
 }
-main > div > p > a {
+main > section > p > a {
 	position: relative;
 	z-index: 1;
 	display: inline-block;
@@ -114,13 +114,13 @@ main > div > p > a {
 	color: var(--shadow);
 	text-align: left;
 }
-main > div > p > a:hover,
-main > div > p > a:focus-within {
+main > section > p > a:hover,
+main > section > p > a:focus-within {
 	--background: #393;
 	--foreground: #9f9;
 	--shadow: #060;
 }
-main > div > p > a::before {
+main > section > p > a::before {
 	content: "";
 	position: absolute;
 	top: 1rem;
@@ -131,18 +131,18 @@ main > div > p > a::before {
 	margin: auto;
 	background: var(--background);
 }
-main > div > p > a[download]::before {
+main > section > p > a[download]::before {
 	clip-path: polygon(31.25% 12.5%, 68.75% 12.5%, 68.75% 50%, 87.5% 50%, 50% 87.5%, 12.5% 50%, 31.25% 50%);
 }
-main > div > p > a:not([download])::before {
+main > section > p > a:not([download])::before {
 	clip-path: polygon(12.5% 6.699%, 87.5% 50%, 12.5% 93.301%);
 }
-main > div > figure {
+main > section > figure {
 	position: relative;
 	margin: 2rem auto;
 	padding: 0 2rem;
 }
-main > div.featured > figure::after {
+main > section.featured > figure::after {
 	content: "1000\a !";
 	position: absolute;
 	top: -3rem;
@@ -158,10 +158,10 @@ main > div.featured > figure::after {
 	transform: rotate(-30deg);
 	clip-path: polygon(50% 0%, 64.695% 29.775%, 97.553% 34.549%, 73.776% 57.725%, 79.389% 90.451%, 50% 75%, 20.611% 90.451%, 26.224% 57.725%, 2.447% 34.549%, 35.305% 29.775%);
 }
-main > div > figure > figcaption {
+main > section > figure > figcaption {
 	font-size: 0;
 }
-main > div > figure > picture > img {
+main > section > figure > picture > img {
 	overflow: hidden;
 	position: relative;
 	display: inline-block;
@@ -171,7 +171,7 @@ main > div > figure > picture > img {
 	color: #999;
 	object-fit: contain;
 }
-main > div > figure > picture > img::before {
+main > section > figure > picture > img::before {
 	content: attr(alt);
 	position: absolute;
 	top: 0;
@@ -185,45 +185,45 @@ main > div > figure > picture > img::before {
 	text-align: center;
 }
 @media screen and (min-width: 27.5em) {
-	main > div > figure {
+	main > section > figure {
 		width: 36rem;
 		height: 18rem;
 	}
 }
 @media screen and (min-width: 55em) {
-	main > div {
+	main > section {
 		float: left;
 		clear: both;
 		width: calc(50% - 1rem);
 	}
-	main > div:nth-of-type(even) {
+	main > section:nth-of-type(even) {
 		float: right;
 		clear: right;
 	}
-	main > div:nth-of-type(odd):last-of-type {
+	main > section:nth-of-type(odd):last-of-type {
 		float: none;
 		margin: auto;
 	}
 }
 @media screen and (min-width: 41.25em) and (max-width: 54.9375em), screen and (min-width: 82.5em) {
-	main > div {
+	main > section {
 		min-height: 22rem;
 		padding: 0 2rem 0 36rem;
 	}
-	main > div:nth-of-type(even) {
+	main > section:nth-of-type(even) {
 		padding: 0 36rem 0 2rem;
 	}
-	main > div > figure {
+	main > section > figure {
 		position: absolute;
 		top: 0;
 		bottom: 0;
 		left: 0;
 		margin: auto;
 	}
-	main > div:nth-of-type(even) > figure {
+	main > section:nth-of-type(even) > figure {
 		left: calc(100% - 36rem);
 	}
-	main > div:nth-of-type(even).featured > figure::after {
+	main > section:nth-of-type(even).featured > figure::after {
 		left: calc(100% - 9rem);
 		transform: rotate(30deg);
 	}

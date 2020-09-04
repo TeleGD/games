@@ -1,6 +1,6 @@
 (async () => {
 	const title = document.querySelector("main > h1");
-	let firstGame = document.querySelector("main > div");
+	let firstGame = document.querySelector("main > section");
 	const format = new Intl.DateTimeFormat("fr", {
 		"year":"numeric",
 		"month":"long",
@@ -13,10 +13,10 @@
 		if (game.priority !== 1 && game.priority !== 2) {
 			continue;
 		}
-		const division = document.createElement("div");
-		division.id = game.repository;
+		const section = document.createElement("section");
+		section.id = game.repository;
 		if (game.priority === 2) {
-			division.classList.add("featured");
+			section.classList.add("featured");
 		}
 		const heading = document.createElement("h2");
 		const link = document.createElement("a");
@@ -49,7 +49,7 @@
 		});
 		picture.append(image);
 		figure.append(picture);
-		division.append(heading, paragraph, figure);
+		section.append(heading, paragraph, figure);
 		if (game.released) {
 			switch (game.engine) {
 				case "GameMaker Studio": {
@@ -59,7 +59,7 @@
 					link.download = `${game.repository}.exe`;
 					link.textContent = "Pour Windows";
 					paragraph.append(link);
-					division.append(paragraph);
+					section.append(paragraph);
 					break;
 				}
 				case "Noyo": {
@@ -68,7 +68,7 @@
 					link.href = `//telegd.github.io/${game.repository}/`;
 					link.textContent = "En ligne";
 					paragraph.append(link);
-					division.append(paragraph);
+					section.append(paragraph);
 					break;
 				}
 				case "Slick2D": {
@@ -83,7 +83,7 @@
 						link.download = `${game.repository}-${asset[0]}.zip`;
 						link.textContent = asset[1];
 						paragraph.append(link);
-						division.append(paragraph);
+						section.append(paragraph);
 					}
 					break;
 				}
@@ -93,27 +93,26 @@
 					link.href = `//telegd.github.io/${game.repository}/`;
 					link.textContent = "En ligne";
 					paragraph.append(link);
-					division.append(paragraph);
+					section.append(paragraph);
 					break;
 				}
 			}
 		}
 		if (game.priority === 2) {
-			title.after(division);
+			title.after(section);
 			continue;
 		}
-		firstGame.before(division);
-		firstGame = division;
+		firstGame.before(section);
+		firstGame = section;
 	}
-	const escape = /[^-0-9A-Z_a-z]/g;
 	const target = () => {
 		const id = location.hash.slice(1);
 		let element = null;
 		if (id !== "") {
-			element = document.querySelector(`main > div#${id.replace(escape, (character) => `\\${character.codePointAt(0).toString(16)}`)} > h2 > a:not([download])`);
+			element = document.querySelector(`main > section#${CSS.escape(id)} > h2 > a:not([download])`);
 		}
 		if (element === null) {
-			element = document.querySelector("main > div > h2 > a:not([download])");
+			element = document.querySelector("main > section > h2 > a:not([download])");
 		}
 		element.focus();
 		element.scrollIntoView({
