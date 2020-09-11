@@ -2,7 +2,7 @@
 
 ## Jeux *Java* / *Slick2D*
 
-| Jeu | Date | Dépôts | Gabarit | Contrôles |
+| Jeu | Date | Dépôt | Gabarit | Contrôles |
 | - | - | - | - | - |
 | Another Brick in the Cloud | 06/11/2015 | [tgd-another-brick-in-the-cloud][another-brick-in-the-cloud-0] | Aucun | Clavier |
 | Space Cops | 07/11/2015 | [tgd-space-cops][space-cops-0] | [base][base] | Clavier |
@@ -10,19 +10,19 @@
 | Super Fighter | 11/05/2016 | [tgd-super-fighter][super-fighter-0] | Aucun | Clavier et souris |
 | Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot-0] | Aucun | Clavier et souris |
 | Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom-0] | Aucun | Clavier |
-| Labyrinthe | 18/03/2017 | [tgd-labyrinthe][labyrinthe-0]<br/>[tgd-final][labyrinthe-1]<br/>[tgd-multigame][labyrinthe-2] | [base][base]<br/>Aucun<br/>Aucun | Clavier<br/>Clavier<br/>Clavier et souris |
-| T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser-0]<br/>[tgd-final][t7-laser-1]<br/>[tgd-multigame][t7-laser-2] | [base][base]<br/>Aucun<br/>Aucun | Clavier<br/>Clavier<br/>Clavier et souris |
-| Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx-0]<br/>[tgd-final][cathedral-bloxxx-1]<br/>[tgd-multigame][cathedral-bloxxx-2] | [base][base]<br/>Aucun<br/>Aucun | Clavier<br/>Clavier et souris<br/>Clavier et souris |
-| Rook Defenders | 18/03/2017 | [tgd-rook-defenders][rook-defenders-0]<br/>[tgd-multigame][rook-defenders-1] | [base][base]<br/>Aucun | Clavier<br/>Clavier et souris |
-| Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0]<br/>[tgd-final][space-shooter-1] | [base][base]<br/>Aucun | Clavier<br/>Clavier |
-| Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0]<br/>[tgd-final][snake3000-1] | [base][base]<br/>[base][base]<br/>Aucun | Clavier et souris<br/>Clavier et souris<br/>Clavier et souris |
-| Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense-0]<br/>[tgd-final][tower-defense-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
-| Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin-0]<br/>[tgd-final][rogue-like-a-virgin-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
-| Survival | 25/11/2017 | [tgd-survival][survival-0]<br/>[tgd-final][survival-1] | Aucun<br/>Aucun | Clavier<br/>Clavier |
-| Worms3000 | 25/11/2017 | [tgd-worms3000][worms3000-0]<br/>[tgd-final][worms3000-1] | Aucun<br/>Aucun | Clavier<br/>Clavier |
+| Labyrinthe | 18/03/2017 | [tgd-labyrinthe][labyrinthe-0] | [base][base] | Clavier |
+| T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser-0] | [base][base] | Clavier |
+| Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx-0] | [base][base] | Clavier |
+| Rook Defenders | 18/03/2017 | [tgd-rook-defenders][rook-defenders-0] | [base][base] | Clavier |
+| Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter-0] | [base][base] | Clavier |
+| Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000-0] | [base][base] | Clavier et souris |
+| Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense-0] | Aucun | Clavier et souris |
+| Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin-0] | Aucun | Clavier et souris |
+| Survival | 25/11/2017 | [tgd-survival][survival-0] | Aucun | Clavier |
+| Worms3000 | 25/11/2017 | [tgd-worms3000][worms3000-0] | Aucun | Clavier |
 | Telecom Party | 25/01/2018 | [tgd-telecom-party][telecom-party-0] | [multi][multi] | Clavier et manette |
-| Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war-0]<br/>[tgd-final][age-of-war-1] | Aucun<br/>Aucun | Clavier<br/>Clavier |
-| La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse-0]<br/>[tgd-final][la-sainte-ventouse-1] | Aucun<br/>Aucun | Clavier et souris<br/>Clavier et souris |
+| Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war-0] | Aucun | Clavier |
+| La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse-0] | Aucun | Clavier et souris |
 | Preach or Die 1000: Holy Plague | 27/01/2018 | [tgd-preach-or-die1000-holy-plague][preach-or-die1000-holy-plague-0] | [base][base] | Clavier et souris |
 | Pacman Battle | 15/02/2018 | [tgd-pacman-battle][pacman-battle-0] | [multi][multi] | Clavier et manette |
 | Aztec Pyramids | 22/02/2018 | [tgd-aztec-pyramids][aztec-pyramids-0] | [base][base] | Clavier |
@@ -51,7 +51,7 @@
 
 ## Jeux *C#* / *Unity*
 
-| Jeu | Date | Dépôts |
+| Jeu | Date | Dépôt |
 | - | - | - |
 | Rocket-LG | 12/05/2016 | [tgd-rocket-lg][rocket-lg-0] |
 | Unitest | 07/03/2019 | [tgd-unitest][unitest-0] |
@@ -62,13 +62,13 @@
 
 ## Jeux *ECMAScript* / *Noyo*
 
-| Jeu | Date | Dépôts |
+| Jeu | Date | Dépôt |
 | - | - | - |
 | Grave-ET Resurrected | 31/12/2018 | [tgd-grave-et-resurrected][tgd-grave-et-resurrected-0] |
 
 ## Jeux *GameMaker Studio*
 
-| Jeu | Date | Dépôts |
+| Jeu | Date | Dépôt |
 | - | - | - |
 | Clicker Wow | 07/12/2019 | [tgd-clicker-wow][tgd-clicker-wow-0] |
 
@@ -80,33 +80,18 @@
 [jean-robot-0]: https://github.com/TeleGD/tgd-jean-robot/tree/master/src/fr
 [guard-slalom-0]: https://github.com/TeleGD/tgd-guard-slalom/tree/master/src/fr
 [labyrinthe-0]: https://github.com/TeleGD/tgd-labyrinthe/tree/master/src/games/labyrinthe
-[labyrinthe-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Labyrinthe
-[labyrinthe-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game1
 [t7-laser-0]: https://github.com/TeleGD/tgd-t7-laser/tree/master/src/games/t7Laser
-[t7-laser-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/T7Laser
-[t7-laser-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game2
 [cathedral-bloxxx-0]: https://github.com/TeleGD/tgd-cathedral-bloxxx/tree/master/src/games/cathedralBloxxx
-[cathedral-bloxxx-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/CathedralBloxxx
-[cathedral-bloxxx-2]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game3
 [rook-defenders-0]: https://github.com/TeleGD/tgd-rook-defenders/tree/master/src/games/rookDefenders
-[rook-defenders-1]: https://github.com/TeleGD/tgd-multigame/tree/master/src/game4
 [space-shooter-0]: https://github.com/TeleGD/tgd-space-shooter/tree/master/src/games/spaceShooter
-[space-shooter-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/SpaceShooter
 [snake3000-0]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/games/snake3000
-[snake3000-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Snake
 [tower-defense-0]: https://github.com/TeleGD/tgd-tower-defense/tree/master/src/games/towerDefense
-[tower-defense-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/TowerDefense
 [rogue-like-a-virgin-0]: https://github.com/TeleGD/tgd-rogue-like-a-virgin/tree/master/src/games/rogueLikeAVirgin
-[rogue-like-a-virgin-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/RogueLikeAVirgin
 [survival-0]: https://github.com/TeleGD/tgd-survival/tree/master/src/games/survival
-[survival-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Survival
 [worms3000-0]: https://github.com/TeleGD/tgd-worms3000/tree/master/src/games/worms3000
-[worms3000-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/Worms3000
 [telecom-party-0]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/telecomParty
 [age-of-war-0]: https://github.com/TeleGD/tgd-age-of-war/tree/master/src/games/ageOfWar
-[age-of-war-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/AgeOfWar
 [la-sainte-ventouse-0]: https://github.com/TeleGD/tgd-la-sainte-ventouse/tree/master/src/games/laSainteVentouse
-[la-sainte-ventouse-1]: https://github.com/TeleGD/tgd-final/tree/master/src/games/LaSainteVentouse
 [preach-or-die1000-holy-plague-0]: https://github.com/TeleGD/tgd-preach-or-die1000-holy-plague/tree/master/src/games/preachOrDie1000HolyPlague
 [pacman-battle-0]: https://github.com/TeleGD/tgd-pacman-battle/tree/master/src/games/pacmanBattle
 [aztec-pyramids-0]: https://github.com/TeleGD/tgd-aztec-pyramids/tree/master/src/games/aztecPyramids
