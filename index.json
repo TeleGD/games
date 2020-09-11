@@ -141,7 +141,7 @@
 		"repository": "tgd-telecom-party",
 		"engine": "Slick2D",
 		"released": false,
-		"priority": 0
+		"priority": 1
 	},
 	{
 		"title": "Age of War",
@@ -195,6 +195,22 @@
 		"title": "Reflex",
 		"date": "2018-03-29",
 		"repository": "tgd-reflex",
+		"engine": "Slick2D",
+		"released": false,
+		"priority": 1
+	},
+	{
+		"title": "T7 Maser",
+		"date": "2018-04-09",
+		"repository": "tgd-t7-maser",
+		"engine": "Slick2D",
+		"released": false,
+		"priority": 1
+	},
+	{
+		"title": "Snake3001",
+		"date": "2018-04-11",
+		"repository": "tgd-snake3001",
 		"engine": "Slick2D",
 		"released": false,
 		"priority": 1
@@ -376,10 +392,26 @@
 		"priority": 1
 	},
 	{
+		"title": "TNCY Ball",
+		"date": "2020-02-06",
+		"repository": "tgd-tncy-ball",
+		"engine": "Slick2D",
+		"released": false,
+		"priority": 1
+	},
+	{
 		"title": "Tetris Battle",
 		"date": "2020-02-08",
 		"repository": "tgd-tetris-battle",
 		"engine": "Slick2D",
+		"released": false,
+		"priority": 1
+	},
+	{
+		"title": "TNCY Ball 3D",
+		"date": "2020-07-26",
+		"repository": "tgd-tncy-ball-3d",
+		"engine": "Unity",
 		"released": false,
 		"priority": 1
 	}
