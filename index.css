@@ -154,7 +154,7 @@ main > section.featured > figure::after {
 	color: #c90;
 	font-size: 1.2rem;
 	text-align: center;
-	white-space: pre;
+	white-space: pre-line;
 	transform: rotate(-30deg);
 	clip-path: polygon(50% 0%, 64.695% 29.775%, 97.553% 34.549%, 73.776% 57.725%, 79.389% 90.451%, 50% 75%, 20.611% 90.451%, 26.224% 57.725%, 2.447% 34.549%, 35.305% 29.775%);
 }

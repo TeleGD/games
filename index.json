@@ -412,7 +412,7 @@
 		"date": "2020-07-26",
 		"repository": "tgd-tncy-ball-3d",
 		"engine": "Unity",
-		"released": false,
-		"priority": 1
+		"released": true,
+		"priority": 2
 	}
 ]
