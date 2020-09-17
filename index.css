@@ -12,9 +12,9 @@ html {
 }
 body {
 	overflow: hidden auto;
+	place-content: center;
 	display: grid;
-	height: 100%;
-	grid-auto-columns: 100%;
+	min-height: 100%;
 	background-color: #000;
 	color: #fff;
 	font-family: "Press Start 2P", monospace;
@@ -32,17 +32,10 @@ body::after {
 	background: url("../background.png") center / contain no-repeat;
 	transform: translate(-50%, -50%);
 }
-/*~~~~~~ main ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-main {
-	place-self: center;
-	width: 100%;
-	max-width: 176rem;
-	margin: -2rem 0;
-	padding: 0 2rem;
-}
-main > h1 {
+/*~~~~~~ header ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+header > hgroup > h1 {
 	min-height: 5rem;
-	margin: 4rem 0;
+	margin: 2rem 0;
 	padding: 0 2rem;
 	color: transparent;
 	font-size: 4rem;
@@ -50,22 +43,28 @@ main > h1 {
 	text-align: center;
 	text-shadow: .2rem .2rem #fff, -.2rem -.2rem #f00;
 	scroll-snap-align: center;
-	scroll-margin: 4rem;
+	scroll-margin: 2rem 0;
+}
+/*~~~~~~ main ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+main {
+	min-width: 0;
+	max-width: 176rem;
 }
 main > section {
 	--background: #933;
 	--foreground: #f99;
 	--shadow: #600;
 	position: relative;
+	float: left;
+	clear: both;
 	display: flow-root;
-	margin: 4rem 0;
-	padding: 0 2rem;
+	width: calc(100% - 4rem);
+	margin: 3rem 1rem 1rem 3rem;
 	background: var(--background);
 	color: var(--foreground);
 	box-shadow: -2rem -2rem var(--shadow);
-	transform: translate(1rem, 1rem);
 	scroll-snap-align: center;
-	scroll-margin: 4rem 0;
+	scroll-margin: 3rem 1rem 1rem 3rem;
 }
 main > section:hover,
 main > section:focus-within {
@@ -107,8 +106,8 @@ main > section > p > a {
 	position: relative;
 	z-index: 1;
 	display: inline-block;
-	width: calc(100% + 2rem);
-	margin: -1rem;
+	width: calc(100% - 2rem);
+	margin: -1rem 1rem;
 	padding: 1rem 1rem 1rem 5rem;
 	background: var(--foreground);
 	color: var(--shadow);
@@ -184,6 +183,7 @@ main > section > figure > picture > img::before {
 	background: #000;
 	text-align: center;
 }
+/*~~~~~~ @media ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 @media screen and (min-width: 27.5em) {
 	main > section > figure {
 		width: 36rem;
@@ -192,26 +192,24 @@ main > section > figure > picture > img::before {
 }
 @media screen and (min-width: 55em) {
 	main > section {
-		float: left;
-		clear: both;
-		width: calc(50% - 1rem);
+		width: calc(50% - 4rem);
 	}
 	main > section:nth-of-type(even) {
 		float: right;
 		clear: right;
 	}
 	main > section:nth-of-type(odd):last-of-type {
-		float: none;
-		margin: auto;
+		margin: 3rem calc(25% + 1rem) 1rem calc(25% + 3rem);
+		scroll-margin: 3rem 1rem 1rem 3rem;
 	}
 }
 @media screen and (min-width: 41.25em) and (max-width: 54.9375em), screen and (min-width: 82.5em) {
 	main > section {
 		min-height: 22rem;
-		padding: 0 2rem 0 36rem;
+		padding: 0 0 0 36rem;
 	}
 	main > section:nth-of-type(even) {
-		padding: 0 36rem 0 2rem;
+		padding: 0 36rem 0 0;
 	}
 	main > section > figure {
 		position: absolute;

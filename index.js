@@ -1,5 +1,5 @@
 (async () => {
-	const title = document.querySelector("main > h1");
+	const main = document.querySelector("main");
 	let firstGame = document.querySelector("main > section");
 	const format = new Intl.DateTimeFormat("fr", {
 		"year":"numeric",
@@ -99,7 +99,7 @@
 			}
 		}
 		if (game.priority === 2) {
-			title.after(section);
+			main.prepend(section);
 			continue;
 		}
 		firstGame.before(section);

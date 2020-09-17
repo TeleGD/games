@@ -115,7 +115,7 @@
 [phoenix-project]: https://github.com/TeleGD/tgd-phoenix-project/tree/master/src/games/phoenixProject
 [color-truc]: https://github.com/TeleGD/tgd-color-truc/tree/master/src/games/colorTruc
 [cube-dungeon]: https://github.com/TeleGD/tgd-cube-dungeon/tree/master/src/games/cubeDungeon
-[tgd-tncy-ball]: https://github.com/TeleGD/tgd-tncy-ball/tree/master/src/games/haxBall
+[tgd-tncy-ball]: https://github.com/TeleGD/tgd-tncy-ball/tree/master/src/games/tncyBall
 [tetris-battle]: https://github.com/TeleGD/tgd-tetris-battle/tree/master/src/games/tetrisBattle
 
 [base]: https://github.com/TeleGD/tgd-template-slick2d-base
