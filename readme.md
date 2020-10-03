@@ -4,12 +4,12 @@
 
 | Jeu | Date | Dépôt | Gabarit | Contrôles |
 | - | - | - | - | - |
-| Another Brick in the Cloud | 06/11/2015 | [tgd-another-brick-in-the-cloud][another-brick-in-the-cloud] | Aucun | Clavier |
+| Another Brick in the Cloud | 06/11/2015 | [tgd-another-brick-in-the-cloud][another-brick-in-the-cloud] | [base][base] | Clavier |
 | Space Cops | 07/11/2015 | [tgd-space-cops][space-cops] | [base][base] | Clavier |
-| Casse-briques | 30/04/2016 | [tgd-casse-briques][casse-briques] | Aucun | Clavier et souris |
-| Super Fighter | 11/05/2016 | [tgd-super-fighter][super-fighter] | Aucun | Clavier et souris |
-| Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot] | Aucun | Clavier et souris |
-| Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom] | Aucun | Clavier |
+| Casse-briques | 30/04/2016 | [tgd-casse-briques][casse-briques] | [base][base] | Clavier et souris |
+| Super Fighter | 11/05/2016 | [tgd-super-fighter][super-fighter] | [base][base] | Clavier et souris |
+| Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot] | [base][base] | Clavier et souris |
+| Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom] | [base][base] | Clavier |
 | Labyrinthe | 18/03/2017 | [tgd-labyrinthe][labyrinthe] | [base][base] | Clavier |
 | T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser] | [base][base] | Clavier |
 | Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx] | [base][base] | Clavier |
@@ -73,50 +73,50 @@
 | Clicker Wow | 07/12/2019 | [tgd-clicker-wow][tgd-clicker-wow] |
 
 
-[another-brick-in-the-cloud]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud/tree/master/src/fr
-[space-cops]: https://github.com/TeleGD/tgd-space-cops/tree/master/src/games/spaceCops
-[casse-briques]: https://github.com/TeleGD/tgd-casse-briques/tree/master/src/fr
-[super-fighter]: https://github.com/TeleGD/tgd-super-fighter/tree/master/src/fr
-[jean-robot]: https://github.com/TeleGD/tgd-jean-robot/tree/master/src/fr
-[guard-slalom]: https://github.com/TeleGD/tgd-guard-slalom/tree/master/src/fr
-[labyrinthe]: https://github.com/TeleGD/tgd-labyrinthe/tree/master/src/games/labyrinthe
-[t7-laser]: https://github.com/TeleGD/tgd-t7-laser/tree/master/src/games/t7Laser
-[cathedral-bloxxx]: https://github.com/TeleGD/tgd-cathedral-bloxxx/tree/master/src/games/cathedralBloxxx
-[rook-defenders]: https://github.com/TeleGD/tgd-rook-defenders/tree/master/src/games/rookDefenders
-[space-shooter]: https://github.com/TeleGD/tgd-space-shooter/tree/master/src/games/spaceShooter
-[snake3000]: https://github.com/TeleGD/tgd-snake3000/tree/master/src/games/snake3000
-[tower-defense]: https://github.com/TeleGD/tgd-tower-defense/tree/master/src/games/towerDefense
-[rogue-like-a-virgin]: https://github.com/TeleGD/tgd-rogue-like-a-virgin/tree/master/src/games/rogueLikeAVirgin
-[survival]: https://github.com/TeleGD/tgd-survival/tree/master/src/games/survival
-[worms3000]: https://github.com/TeleGD/tgd-worms3000/tree/master/src/games/worms3000
-[telecom-party]: https://github.com/TeleGD/tgd-telecom-party/tree/master/src/games/telecomParty
-[age-of-war]: https://github.com/TeleGD/tgd-age-of-war/tree/master/src/games/ageOfWar
-[la-sainte-ventouse]: https://github.com/TeleGD/tgd-la-sainte-ventouse/tree/master/src/games/laSainteVentouse
-[preach-or-die1000-holy-plague]: https://github.com/TeleGD/tgd-preach-or-die1000-holy-plague/tree/master/src/games/preachOrDie1000HolyPlague
-[pacman-battle]: https://github.com/TeleGD/tgd-pacman-battle/tree/master/src/games/pacmanBattle
-[aztec-pyramids]: https://github.com/TeleGD/tgd-aztec-pyramids/tree/master/src/games/aztecPyramids
-[pong]: https://github.com/TeleGD/tgd-pong/tree/master/src/games/pong
-[reflex]: https://github.com/TeleGD/tgd-reflex/tree/master/src/games/reflex
-[t7-maser]: https://github.com/TeleGD/tgd-t7-maser/tree/master/src/games/t7Maser
-[snake3001]: https://github.com/TeleGD/tgd-snake3001/tree/master/src/games/snake3001
-[clicker]: https://github.com/TeleGD/tgd-clicker/tree/master/src/games/clicker
-[code-fall]: https://github.com/TeleGD/tgd-code-fall/tree/master/src/games/codeFall
-[bomberman]: https://github.com/TeleGD/tgd-bomberman/tree/master/src/games/bomberman
-[maze]: https://github.com/TeleGD/tgd-maze/tree/master/src/games/maze
-[path-painting]: https://github.com/TeleGD/tgd-path-painting/tree/master/src/games/pathPainting
-[precise-lock]: https://github.com/TeleGD/tgd-precise-lock/tree/master/src/games/preciseLock
-[telekingdom]: https://github.com/TeleGD/tgd-telekingdom/tree/master/src/games/telekingdom
-[solar-system]: https://github.com/TeleGD/tgd-solar-system/tree/master/src/games/solarSystem
-[grave-et]: https://github.com/TeleGD/tgd-grave-et/tree/master/src/games/graveEt
-[hax-ball]: https://github.com/TeleGD/tgd-hax-ball/tree/master/src/games/haxBall
-[caramel-au-beurre-sale]: https://github.com/TeleGD/tgd-caramel-au-beurre-sale/tree/master/src/waterSymbol
-[the-english-s-stone]: https://github.com/TeleGD/tgd-the-english-s-stone/tree/master/src/games/theEnglishSStone
-[le-bon-gros-son-sa-mere]: https://github.com/TeleGD/tgd-le-bon-gros-son-sa-mere/tree/master/src/leBonGrosSonSaMere
-[phoenix-project]: https://github.com/TeleGD/tgd-phoenix-project/tree/master/src/games/phoenixProject
-[color-truc]: https://github.com/TeleGD/tgd-color-truc/tree/master/src/games/colorTruc
-[cube-dungeon]: https://github.com/TeleGD/tgd-cube-dungeon/tree/master/src/games/cubeDungeon
-[tgd-tncy-ball]: https://github.com/TeleGD/tgd-tncy-ball/tree/master/src/games/tncyBall
-[tetris-battle]: https://github.com/TeleGD/tgd-tetris-battle/tree/master/src/games/tetrisBattle
+[another-brick-in-the-cloud]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud
+[space-cops]: https://github.com/TeleGD/tgd-space-cops
+[casse-briques]: https://github.com/TeleGD/tgd-casse-briques
+[super-fighter]: https://github.com/TeleGD/tgd-super-fighter
+[jean-robot]: https://github.com/TeleGD/tgd-jean-robot
+[guard-slalom]: https://github.com/TeleGD/tgd-guard-slalom
+[labyrinthe]: https://github.com/TeleGD/tgd-labyrinthe
+[t7-laser]: https://github.com/TeleGD/tgd-t7-laser
+[cathedral-bloxxx]: https://github.com/TeleGD/tgd-cathedral-bloxxx
+[rook-defenders]: https://github.com/TeleGD/tgd-rook-defenders
+[space-shooter]: https://github.com/TeleGD/tgd-space-shooter
+[snake3000]: https://github.com/TeleGD/tgd-snake3000
+[tower-defense]: https://github.com/TeleGD/tgd-tower-defense
+[rogue-like-a-virgin]: https://github.com/TeleGD/tgd-rogue-like-a-virgin
+[survival]: https://github.com/TeleGD/tgd-survival
+[worms3000]: https://github.com/TeleGD/tgd-worms3000
+[telecom-party]: https://github.com/TeleGD/tgd-telecom-party
+[age-of-war]: https://github.com/TeleGD/tgd-age-of-war
+[la-sainte-ventouse]: https://github.com/TeleGD/tgd-la-sainte-ventouse
+[preach-or-die1000-holy-plague]: https://github.com/TeleGD/tgd-preach-or-die1000-holy-plague
+[pacman-battle]: https://github.com/TeleGD/tgd-pacman-battle
+[aztec-pyramids]: https://github.com/TeleGD/tgd-aztec-pyramids
+[pong]: https://github.com/TeleGD/tgd-pong
+[reflex]: https://github.com/TeleGD/tgd-reflex
+[t7-maser]: https://github.com/TeleGD/tgd-t7-maser
+[snake3001]: https://github.com/TeleGD/tgd-snake3001
+[clicker]: https://github.com/TeleGD/tgd-clicker
+[code-fall]: https://github.com/TeleGD/tgd-code-fall
+[bomberman]: https://github.com/TeleGD/tgd-bomberman
+[maze]: https://github.com/TeleGD/tgd-maze
+[path-painting]: https://github.com/TeleGD/tgd-path-painting
+[precise-lock]: https://github.com/TeleGD/tgd-precise-lock
+[telekingdom]: https://github.com/TeleGD/tgd-telekingdom
+[solar-system]: https://github.com/TeleGD/tgd-solar-system
+[grave-et]: https://github.com/TeleGD/tgd-grave-et
+[hax-ball]: https://github.com/TeleGD/tgd-hax-ball
+[caramel-au-beurre-sale]: https://github.com/TeleGD/tgd-caramel-au-beurre-sale
+[the-english-s-stone]: https://github.com/TeleGD/tgd-the-english-s-stone
+[le-bon-gros-son-sa-mere]: https://github.com/TeleGD/tgd-le-bon-gros-son-sa-mere
+[phoenix-project]: https://github.com/TeleGD/tgd-phoenix-project
+[color-truc]: https://github.com/TeleGD/tgd-color-truc
+[cube-dungeon]: https://github.com/TeleGD/tgd-cube-dungeon
+[tgd-tncy-ball]: https://github.com/TeleGD/tgd-tncy-ball
+[tetris-battle]: https://github.com/TeleGD/tgd-tetris-battle
 
 [base]: https://github.com/TeleGD/tgd-template-slick2d-base
 [multi]: https://github.com/TeleGD/tgd-template-slick2d-multi
