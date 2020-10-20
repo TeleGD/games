@@ -1,5 +1,21 @@
 [
 	{
+		"title": "First Coding Night Ever",
+		"date": "2015-03-06",
+		"repository": "tgd-first-coding-night-ever",
+		"engine": "Slick2D",
+		"released": false,
+		"priority": 1
+	},
+	{
+		"title": "Virus Slayer",
+		"date": "2015-05-02",
+		"repository": "tgd-virus-slayer",
+		"engine": "Slick2D",
+		"released": false,
+		"priority": 1
+	},
+	{
 		"title": "Another Brick in the Cloud",
 		"date": "2015-11-06",
 		"repository": "tgd-another-brick-in-the-cloud",
@@ -48,9 +64,9 @@
 		"priority": 1
 	},
 	{
-		"title": "Guard Slalom",
+		"title": "Infiltrator2000",
 		"date": "2016-11-19",
-		"repository": "tgd-guard-slalom",
+		"repository": "tgd-infiltrator2000",
 		"engine": "Slick2D",
 		"released": false,
 		"priority": 1
@@ -83,6 +99,14 @@
 		"title": "Rook Defenders",
 		"date": "2017-03-18",
 		"repository": "tgd-rook-defenders",
+		"engine": "Slick2D",
+		"released": false,
+		"priority": 1
+	},
+	{
+		"title": "A Small World",
+		"date": "2017-04-22",
+		"repository": "tgd-a-small-world",
 		"engine": "Slick2D",
 		"released": false,
 		"priority": 1

@@ -4,16 +4,19 @@
 
 | Jeu | Date | Dépôt | Gabarit | Contrôles |
 | - | - | - | - | - |
+| First Coding Night Ever | 06/03/2015 | [tgd-first-coding-night-ever][first-coding-night-ever] | Aucun | Clavier |
+| Virus Slayer | 02/05/2015 | [tgd-virus-slayer][virus-slayer] | Aucun | Clavier et souris |
 | Another Brick in the Cloud | 06/11/2015 | [tgd-another-brick-in-the-cloud][another-brick-in-the-cloud] | [base][base] | Clavier |
 | Space Cops | 07/11/2015 | [tgd-space-cops][space-cops] | [base][base] | Clavier |
 | Casse-briques | 30/04/2016 | [tgd-casse-briques][casse-briques] | [base][base] | Clavier et souris |
 | Super Fighter | 11/05/2016 | [tgd-super-fighter][super-fighter] | [base][base] | Clavier et souris |
 | Jean Robot | 06/10/2016 | [tgd-jean-robot][jean-robot] | [base][base] | Clavier et souris |
-| Guard Slalom | 19/11/2016 | [tgd-guard-slalom][guard-slalom] | [base][base] | Clavier |
+| Infiltrator2000 | 19/11/2016 | [tgd-infiltrator2000][infiltrator2000] | [base][base] | Clavier |
 | Labyrinthe | 18/03/2017 | [tgd-labyrinthe][labyrinthe] | [base][base] | Clavier |
 | T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser] | [base][base] | Clavier |
 | Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx] | [base][base] | Clavier |
 | Rook Defenders | 18/03/2017 | [tgd-rook-defenders][rook-defenders] | [base][base] | Clavier |
+| A Small World | 22/04/2017 | [tgd-a-small-world][a-small-world] | Aucun | Clavier |
 | Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter] | [base][base] | Clavier |
 | Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000] | [base][base] | Clavier et souris |
 | Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense] | Aucun | Clavier et souris |
@@ -73,16 +76,19 @@
 | Clicker Wow | 07/12/2019 | [tgd-clicker-wow][tgd-clicker-wow] |
 
 
+[first-coding-night-ever]: https://github.com/TeleGD/tgd-first-coding-night-ever
+[virus-slayer]: https://github.com/TeleGD/tgd-virus-slayer
 [another-brick-in-the-cloud]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud
 [space-cops]: https://github.com/TeleGD/tgd-space-cops
 [casse-briques]: https://github.com/TeleGD/tgd-casse-briques
 [super-fighter]: https://github.com/TeleGD/tgd-super-fighter
 [jean-robot]: https://github.com/TeleGD/tgd-jean-robot
-[guard-slalom]: https://github.com/TeleGD/tgd-guard-slalom
+[infiltrator2000]: https://github.com/TeleGD/tgd-infiltrator2000
 [labyrinthe]: https://github.com/TeleGD/tgd-labyrinthe
 [t7-laser]: https://github.com/TeleGD/tgd-t7-laser
 [cathedral-bloxxx]: https://github.com/TeleGD/tgd-cathedral-bloxxx
 [rook-defenders]: https://github.com/TeleGD/tgd-rook-defenders
+[a-small-world]: https://github.com/TeleGD/tgd-a-small-world
 [space-shooter]: https://github.com/TeleGD/tgd-space-shooter
 [snake3000]: https://github.com/TeleGD/tgd-snake3000
 [tower-defense]: https://github.com/TeleGD/tgd-tower-defense
