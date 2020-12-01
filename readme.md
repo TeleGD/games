@@ -49,7 +49,7 @@
 | Phoenix Project | 17/05/2019 | [tgd-phoenix-project][phoenix-project] | [multi][multi] | Clavier et manette |
 | Color Truc | 17/05/2019 | [tgd-color-truc][color-truc] | [multi][multi] | Clavier et manette |
 | Cube Dungeon | 07/11/2019 | [tgd-cube-dungeon][cube-dungeon] | [base][base] | Clavier |
-| TNCY Ball | 06/02/2020 | [tgd-tncy-ball][tgd-tncy-ball] | [arcade][arcade] | Clavier et manette |
+| TNCY Ball | 06/02/2020 | [tgd-tncy-ball][tncy-ball] | [arcade][arcade] | Clavier et manette |
 | Tetris Battle | 08/02/2020 | [tgd-tetris-battle][tetris-battle] | [arcade][arcade] | Clavier et manette |
 
 ## Jeux *C#* / *Unity*
@@ -61,19 +61,20 @@
 | Smash Reborn | 03/10/2019 | [tgd-smash-reborn][smash-reborn] |
 | Mansion of the Lost | 06/11/2019 | [tgd-mansion-of-the-lost][mansion-of-the-lost] |
 | Shooter Arena | 08/02/2020 | [tgd-shooter-arena][shooter-arena] |
-| TNCY Ball 3D | 26/07/2020 | [tgd-tncy-ball-3d][tgd-tncy-ball-3d] |
+| TNCY Ball 3D | 26/07/2020 | [tgd-tncy-ball-3d][tncy-ball-3d] |
+| TeleDrama | 05/11/2020 | [tgd-teledrama][teledrama] |
 
 ## Jeux *ECMAScript* / *Noyo*
 
 | Jeu | Date | Dépôt |
 | - | - | - |
-| Grave-ET Resurrected | 31/12/2018 | [tgd-grave-et-resurrected][tgd-grave-et-resurrected] |
+| Grave-ET Resurrected | 31/12/2018 | [tgd-grave-et-resurrected][grave-et-resurrected] |
 
 ## Jeux *GameMaker Studio*
 
 | Jeu | Date | Dépôt |
 | - | - | - |
-| Clicker Wow | 07/12/2019 | [tgd-clicker-wow][tgd-clicker-wow] |
+| Clicker Wow | 07/12/2019 | [tgd-clicker-wow][clicker-wow] |
 
 
 [first-coding-night-ever]: https://github.com/TeleGD/tgd-first-coding-night-ever
@@ -121,7 +122,7 @@
 [phoenix-project]: https://github.com/TeleGD/tgd-phoenix-project
 [color-truc]: https://github.com/TeleGD/tgd-color-truc
 [cube-dungeon]: https://github.com/TeleGD/tgd-cube-dungeon
-[tgd-tncy-ball]: https://github.com/TeleGD/tgd-tncy-ball
+[tncy-ball]: https://github.com/TeleGD/tgd-tncy-ball
 [tetris-battle]: https://github.com/TeleGD/tgd-tetris-battle
 
 [base]: https://github.com/TeleGD/tgd-template-slick2d-base
@@ -134,8 +135,9 @@
 [smash-reborn]: https://github.com/TeleGD/tgd-smash-reborn
 [mansion-of-the-lost]: https://github.com/TeleGD/tgd-mansion-of-the-lost
 [shooter-arena]: https://github.com/TeleGD/tgd-shooter-arena
-[tgd-tncy-ball-3d]: https://github.com/TeleGD/tgd-tncy-ball-3d
+[tncy-ball-3d]: https://github.com/TeleGD/tgd-tncy-ball-3d
+[teledrama]: https://github.com/TeleGD/tgd-teledrama
 
-[tgd-grave-et-resurrected]: https://github.com/TeleGD/tgd-grave-et-resurrected
+[grave-et-resurrected]: https://github.com/TeleGD/tgd-grave-et-resurrected
 
-[tgd-clicker-wow]: https://github.com/TeleGD/tgd-clicker-wow
+[clicker-wow]: https://github.com/TeleGD/tgd-clicker-wow
