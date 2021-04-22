@@ -4,8 +4,8 @@
 
 | Jeu | Date | Dépôt | Gabarit | Contrôles |
 | - | - | - | - | - |
-| First Coding Night Ever | 06/03/2015 | [tgd-first-coding-night-ever][first-coding-night-ever] | Aucun | Clavier |
-| Virus Slayer | 02/05/2015 | [tgd-virus-slayer][virus-slayer] | Aucun | Clavier et souris |
+| Chocobo Run | 06/03/2015 | [tgd-chocobo-run][chocobo-run] | [base][base] | Clavier |
+| Virus Slayer | 02/05/2015 | [tgd-virus-slayer][virus-slayer] | [base][base] | Clavier et souris |
 | Another Brick in the Cloud | 06/11/2015 | [tgd-another-brick-in-the-cloud][another-brick-in-the-cloud] | [base][base] | Clavier |
 | Space Cops | 07/11/2015 | [tgd-space-cops][space-cops] | [base][base] | Clavier |
 | Casse-briques | 30/04/2016 | [tgd-casse-briques][casse-briques] | [base][base] | Clavier et souris |
@@ -16,16 +16,16 @@
 | T7 Laser | 18/03/2017 | [tgd-t7-laser][t7-laser] | [base][base] | Clavier |
 | Cathedral Bloxxx | 18/03/2017 | [tgd-cathedral-bloxxx][cathedral-bloxxx] | [base][base] | Clavier |
 | Rook Defenders | 18/03/2017 | [tgd-rook-defenders][rook-defenders] | [base][base] | Clavier |
-| A Small World | 22/04/2017 | [tgd-a-small-world][a-small-world] | Aucun | Clavier |
+| A Small World | 22/04/2017 | [tgd-a-small-world][a-small-world] | [base][base] | Clavier |
 | Space Shooter | 19/10/2017 | [tgd-space-shooter][space-shooter] | [base][base] | Clavier |
 | Snake3000 | 21/10/2017 | [tgd-snake3000][snake3000] | [base][base] | Clavier et souris |
-| Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense] | Aucun | Clavier et souris |
-| Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin] | Aucun | Clavier et souris |
-| Survival | 25/11/2017 | [tgd-survival][survival] | Aucun | Clavier |
-| Worms3000 | 25/11/2017 | [tgd-worms3000][worms3000] | Aucun | Clavier |
+| Tower Defense | 21/10/2017 | [tgd-tower-defense][tower-defense] | [base][base] | Clavier et souris |
+| Rogue Like a Virgin | 24/11/2017 | [tgd-rogue-like-a-virgin][rogue-like-a-virgin] | [base][base] | Clavier et souris |
+| Survival | 25/11/2017 | [tgd-survival][survival] | [base][base] | Clavier |
+| Worms3000 | 25/11/2017 | [tgd-worms3000][worms3000] | [base][base] | Clavier |
 | Telecom Party | 25/01/2018 | [tgd-telecom-party][telecom-party] | [multi][multi] | Clavier et manette |
-| Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war] | Aucun | Clavier |
-| La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse] | Aucun | Clavier et souris |
+| Age of War | 26/01/2018 | [tgd-age-of-war][age-of-war] | [base][base] | Clavier |
+| La Sainte Ventouse | 26/01/2018 | [tgd-la-sainte-ventouse][la-sainte-ventouse] | [base][base] | Clavier et souris |
 | Preach or Die 1000: Holy Plague | 27/01/2018 | [tgd-preach-or-die1000-holy-plague][preach-or-die1000-holy-plague] | [base][base] | Clavier et souris |
 | Pacman Battle | 15/02/2018 | [tgd-pacman-battle][pacman-battle] | [multi][multi] | Clavier et manette |
 | Aztec Pyramids | 22/02/2018 | [tgd-aztec-pyramids][aztec-pyramids] | [base][base] | Clavier |
@@ -50,7 +50,7 @@
 | Color Truc | 17/05/2019 | [tgd-color-truc][color-truc] | [multi][multi] | Clavier et manette |
 | Cube Dungeon | 07/11/2019 | [tgd-cube-dungeon][cube-dungeon] | [base][base] | Clavier |
 | TNCY Ball | 06/02/2020 | [tgd-tncy-ball][tncy-ball] | [arcade][arcade] | Clavier et manette |
-| Tetris Battle | 08/02/2020 | [tgd-tetris-battle][tetris-battle] | [arcade][arcade] | Clavier et manette |
+| Tetris Battle | 08/02/2020 | [tgd-tetris-battle][tetris-battle] | [multi][multi] | Clavier et manette |
 
 ## Jeux *C#* / *Unity*
 
@@ -77,7 +77,7 @@
 | Clicker Wow | 07/12/2019 | [tgd-clicker-wow][clicker-wow] |
 
 
-[first-coding-night-ever]: https://github.com/TeleGD/tgd-first-coding-night-ever
+[chocobo-run]: https://github.com/TeleGD/tgd-chocobo-run
 [virus-slayer]: https://github.com/TeleGD/tgd-virus-slayer
 [another-brick-in-the-cloud]: https://github.com/TeleGD/tgd-another-brick-in-the-cloud
 [space-cops]: https://github.com/TeleGD/tgd-space-cops

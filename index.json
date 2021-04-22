@@ -1,8 +1,8 @@
 [
 	{
-		"title": "First Coding Night Ever",
+		"title": "Chocobo Run",
 		"date": "2015-03-06",
-		"repository": "tgd-first-coding-night-ever",
+		"repository": "tgd-chocobo-run",
 		"engine": "Slick2D",
 		"released": false,
 		"priority": 1
