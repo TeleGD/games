@@ -116,7 +116,7 @@
 		"date": "2017-10-19",
 		"repository": "tgd-space-shooter",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 1
 	},
 	{
@@ -132,7 +132,7 @@
 		"date": "2017-10-21",
 		"repository": "tgd-tower-defense",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 1
 	},
 	{
@@ -140,7 +140,7 @@
 		"date": "2017-11-24",
 		"repository": "tgd-rogue-like-a-virgin",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 2
 	},
 	{
@@ -172,7 +172,7 @@
 		"date": "2018-01-26",
 		"repository": "tgd-age-of-war",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 1
 	},
 	{
