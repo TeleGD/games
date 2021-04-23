@@ -312,9 +312,9 @@
 		"priority": 2
 	},
 	{
-		"title": "Hax Ball",
+		"title": "TNCY Ball",
 		"date": "2018-10-20",
-		"repository": "tgd-hax-ball",
+		"repository": "tgd-tncy-ball",
 		"engine": "Slick2D",
 		"released": true,
 		"priority": 2
@@ -412,14 +412,6 @@
 		"date": "2020-02-08",
 		"repository": "tgd-shooter-arena",
 		"engine": "Unity",
-		"released": false,
-		"priority": 1
-	},
-	{
-		"title": "TNCY Ball",
-		"date": "2020-02-06",
-		"repository": "tgd-tncy-ball",
-		"engine": "Slick2D",
 		"released": false,
 		"priority": 1
 	},

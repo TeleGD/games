@@ -42,14 +42,13 @@
 | TeleKingdom | 06/09/2018 | [tgd-telekingdom][telekingdom] | [base][base] | Clavier |
 | Solar System | 11/10/2018 | [tgd-solar-system][solar-system] | [base][base] | Clavier et souris |
 | Grave-ET | 20/10/2018 | [tgd-grave-et][grave-et] | [base][base] | Clavier |
-| Hax Ball | 20/10/2018 | [tgd-hax-ball][hax-ball] | [base][base] | Clavier |
+| TNCY Ball | 20/10/2018 | [tgd-tncy-ball][tncy-ball] | [base][base] | Clavier |
 | Caramel au Beurre Salé | 30/11/2018 | [tgd-caramel-au-beurre-sale][caramel-au-beurre-sale] | [base][base] | Clavier et souris |
 | The English's stone | 19/02/2019 | [tgd-the-english-s-stone][the-english-s-stone] | [base][base] | Clavier |
 | Le bon gros son sa mère | 09/03/2019 | [tgd-le-bon-gros-son-sa-mere][le-bon-gros-son-sa-mere] | [base][base] | Clavier et souris |
 | Phoenix Project | 17/05/2019 | [tgd-phoenix-project][phoenix-project] | [multi][multi] | Clavier et manette |
 | Color Truc | 17/05/2019 | [tgd-color-truc][color-truc] | [multi][multi] | Clavier et manette |
 | Cube Dungeon | 07/11/2019 | [tgd-cube-dungeon][cube-dungeon] | [base][base] | Clavier |
-| TNCY Ball | 06/02/2020 | [tgd-tncy-ball][tncy-ball] | [arcade][arcade] | Clavier et manette |
 | Tetris Battle | 08/02/2020 | [tgd-tetris-battle][tetris-battle] | [multi][multi] | Clavier et manette |
 
 ## Jeux *C#* / *Unity*
@@ -115,20 +114,17 @@
 [telekingdom]: https://github.com/TeleGD/tgd-telekingdom
 [solar-system]: https://github.com/TeleGD/tgd-solar-system
 [grave-et]: https://github.com/TeleGD/tgd-grave-et
-[hax-ball]: https://github.com/TeleGD/tgd-hax-ball
+[tncy-ball]: https://github.com/TeleGD/tgd-tncy-ball
 [caramel-au-beurre-sale]: https://github.com/TeleGD/tgd-caramel-au-beurre-sale
 [the-english-s-stone]: https://github.com/TeleGD/tgd-the-english-s-stone
 [le-bon-gros-son-sa-mere]: https://github.com/TeleGD/tgd-le-bon-gros-son-sa-mere
 [phoenix-project]: https://github.com/TeleGD/tgd-phoenix-project
 [color-truc]: https://github.com/TeleGD/tgd-color-truc
 [cube-dungeon]: https://github.com/TeleGD/tgd-cube-dungeon
-[tncy-ball]: https://github.com/TeleGD/tgd-tncy-ball
 [tetris-battle]: https://github.com/TeleGD/tgd-tetris-battle
 
 [base]: https://github.com/TeleGD/tgd-template-slick2d-base
 [multi]: https://github.com/TeleGD/tgd-template-slick2d-multi
-[uni]: https://github.com/TeleGD/tgd-template-slick2d-uni
-[arcade]: https://github.com/TeleGD/tgd-template-slick2d-arcade
 
 [rocket-lg]: https://github.com/TeleGD/tgd-rocket-lg
 [unitest]: https://github.com/TeleGD/tgd-unitest
