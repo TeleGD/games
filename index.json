@@ -408,9 +408,9 @@
 		"priority": 1
 	},
 	{
-		"title": "Shooter Arena",
+		"title": "Guns with Legs",
 		"date": "2020-02-08",
-		"repository": "tgd-shooter-arena",
+		"repository": "tgd-guns-with-legs",
 		"engine": "Unity",
 		"released": false,
 		"priority": 1

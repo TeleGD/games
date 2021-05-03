@@ -59,7 +59,7 @@
 | Unitest | 07/03/2019 | [tgd-unitest][unitest] | Clavier | 1 |
 | Smash Reborn | 03/10/2019 | [tgd-smash-reborn][smash-reborn] | Clavier, manette et souris | 2 |
 | Mansion of the Lost | 06/11/2019 | [tgd-mansion-of-the-lost][mansion-of-the-lost] | Clavier, manette et souris | 1 |
-| Shooter Arena | 08/02/2020 | [tgd-shooter-arena][shooter-arena] | Clavier et manette | 2 |
+| Guns with Legs | 08/02/2020 | [tgd-guns-with-legs][guns-with-legs] | Clavier et manette | 2 |
 | TNCY Ball 3D | 26/07/2020 | [tgd-tncy-ball-3d][tncy-ball-3d] | Clavier et souris | 2 |
 | TeleDrama | 05/11/2020 | [tgd-teledrama][teledrama] | Clavier et souris | 2+ |
 
@@ -130,7 +130,7 @@
 [unitest]: https://github.com/TeleGD/tgd-unitest
 [smash-reborn]: https://github.com/TeleGD/tgd-smash-reborn
 [mansion-of-the-lost]: https://github.com/TeleGD/tgd-mansion-of-the-lost
-[shooter-arena]: https://github.com/TeleGD/tgd-shooter-arena
+[guns-with-legs]: https://github.com/TeleGD/tgd-guns-with-legs
 [tncy-ball-3d]: https://github.com/TeleGD/tgd-tncy-ball-3d
 [teledrama]: https://github.com/TeleGD/tgd-teledrama
 
