@@ -36,7 +36,7 @@
 		"date": "2016-04-30",
 		"repository": "tgd-casse-briques",
 		"engine": "Slick2D",
-		"released": false,
+		"released": true,
 		"priority": 1
 	},
 	{
