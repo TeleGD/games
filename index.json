@@ -64,6 +64,14 @@
 		"priority": 1
 	},
 	{
+		"title": "Tron-GD",
+		"date": "2016-11-17",
+		"repository": "tgd-tron-gd",
+		"engine": "Unity",
+		"released": false,
+		"priority": 1
+	},
+	{
 		"title": "Infiltrator2000",
 		"date": "2016-11-19",
 		"repository": "tgd-infiltrator2000",

@@ -56,6 +56,7 @@
 | Jeu | Date | Dépôt | Contrôles | Joueurs |
 | - | - | - | - | - |
 | Rocket-LG | 12/05/2016 | [tgd-rocket-lg][rocket-lg] | Clavier | 1 |
+| Tron-GD | 17/11/2016 | [tgd-tron-gd][tron-gd] | Clavier | 1 |
 | Unitest | 07/03/2019 | [tgd-unitest][unitest] | Clavier | 1 |
 | Smash Reborn | 03/10/2019 | [tgd-smash-reborn][smash-reborn] | Clavier, manette et souris | 2 |
 | Mansion of the Lost | 06/11/2019 | [tgd-mansion-of-the-lost][mansion-of-the-lost] | Clavier, manette et souris | 1 |
@@ -127,6 +128,7 @@
 [multi]: https://github.com/TeleGD/tgd-template-slick2d-multi
 
 [rocket-lg]: https://github.com/TeleGD/tgd-rocket-lg
+[tron-gd]: https://github.com/TeleGD/tgd-tron-gd
 [unitest]: https://github.com/TeleGD/tgd-unitest
 [smash-reborn]: https://github.com/TeleGD/tgd-smash-reborn
 [mansion-of-the-lost]: https://github.com/TeleGD/tgd-mansion-of-the-lost
